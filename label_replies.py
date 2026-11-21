@@ -28,7 +28,7 @@ import time
 import requests
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-DEFAULT_MODEL = "inclusionai/ling-3.2-flash:free"
+DEFAULT_MODEL = "baidu/ernie-5.5-flash-preview:free"
 VALID_LABELS = ["High", "Medium", "Low", "None", "Auto-reply"]
 RESULTS_FILE = "labeled_replies.csv"
 FAILED_FILE = "failed.csv"
