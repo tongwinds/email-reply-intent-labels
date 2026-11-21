@@ -1,0 +1,841 @@
+id,text,label,reason
+RPL-0001,Not this quarter. The free plan works for us for now.,Low,Polite delay; free plan sufficient; no buying intent.
+RPL-0002,"Not interested, thanks.",None,Direct rejection; no interest.
+RPL-0003,Not this quarter. The free plan works for us for now.,Low,Polite delay; free plan sufficient; no buying intent.
+RPL-0004,"Wrong person, sorry. Procurement decides on anything with more than 131 users.",Low,Wrong contact; procurement handles purchases; no active interest.
+RPL-0005,"Wrong person, sorry. Procurement decides on anything with more than 39 users.",Low,Wrong contact; procurement handles purchases; no active interest.
+RPL-0006,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office message; no human response.
+RPL-0007,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose Microsoft Loop; no need to follow up.
+RPL-0008,Please remove me from this list.,None,Unsubscribe request; direct rejection.
+RPL-0009,"We might look at this later, just not a priority right now.",Low,Polite delay; not a priority; no buying intent.
+RPL-0010,"Not interested, thanks.",None,Direct rejection; no interest.
+RPL-0011,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question; evaluating fit; no quote request.
+RPL-0012,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong contact; IT lead handles purchases; no active interest.
+RPL-0013,"We might look at this later, just not a priority right now.",Low,Polite delay; not a priority; no buying intent.
+RPL-0014,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose Microsoft Loop; no need to follow up.
+RPL-0015,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Product/security question; evaluating; no quote request.
+RPL-0016,"We just signed with Confluence for the whole company, so we're all set.",None,Already signed with Confluence; decision made.
+RPL-0017,We're trialling a few tools for our 41-person team. What makes Notion better for wikis?,Medium,Evaluating tools; product question; seat count but no pricing request.
+RPL-0018,"Not interested, thanks.",None,Direct rejection; no interest.
+RPL-0019,"Love the product, happy on free for the moment.",Low,Polite no-now; happy on free; no buying intent.
+RPL-0020,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit later; no concrete buying signal.
+RPL-0021,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,Polite delay due to frozen budgets; no current buying action.
+RPL-0022,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker is a positive evaluation step.
+RPL-0023,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,Automatic leave message; no human buying signal yet.
+RPL-0024,"We're ready to move the team over. What does Enterprise cost for 49 users, and can you send a contract?",High,Requests Enterprise pricing and contract for 49 users.
+RPL-0025,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office message; no human response yet.
+RPL-0026,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion with Confluence; product evaluation question.
+RPL-0027,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence migration preserving page history.
+RPL-0028,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Chose Microsoft Loop; direct rejection.
+RPL-0029,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong contact; no interest or ability to buy.
+RPL-0030,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,Polite delay due to frozen budgets; no current buying action.
+RPL-0031,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Asks integration questions that would decide purchase.
+RPL-0032,"We might look at this later, just not a priority right now.",Low,Soft delay; not a priority now.
+RPL-0033,What does it cost for students after we graduate? Just wondering for myself.,Low,Student asking personal price; no team purchase authority.
+RPL-0034,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office message; no human response yet.
+RPL-0035,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks permissions/security details; evaluation question.
+RPL-0036,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion with Confluence; product evaluation question.
+RPL-0037,Is there a volume discount above 108 seats? We're comparing your quote to Confluence's.,High,Requests volume discount and compares quote; concrete buying detail.
+RPL-0038,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong contact; no interest or ability to buy.
+RPL-0039,What's your data residency setup for EU customers?,Medium,Asks EU data residency; product/security evaluation.
+RPL-0040,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong contact; no interest or ability to buy.
+RPL-0041,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product/security question about permissions; evaluating, no buying request."
+RPL-0042,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop; decision made, no follow-up."
+RPL-0043,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit refusal to pay and stop emailing.
+RPL-0044,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence; evaluating, no quote request."
+RPL-0045,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence import with page history; product question.
+RPL-0046,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Out-of-office automatic reply; no human answer.
+RPL-0047,"We're ready to move the team over. What does Enterprise cost for 71 users, and can you send a contract?",High,Requests Enterprise pricing and contract for 71 users; ready to buy.
+RPL-0048,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit refusal to pay and stop emailing.
+RPL-0049,"Wrong person, sorry. Procurement decides on anything with more than 19 users.",Low,Wrong person; procurement owns purchases; no active interest.
+RPL-0050,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence; evaluating, no quote request."
+RPL-0051,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Out-of-office automatic reply; no human answer.
+RPL-0052,We're trialling a few tools for our 140-person team. What makes Notion better for wikis?,Medium,"Trialling tools for large team; asks product comparison, no quote."
+RPL-0053,Do you offer free Plus for students? Our club has about 91 people on it.,Low,Student club asking about free Plus; no purchase authority.
+RPL-0054,"We just signed with Confluence for the whole company, so we're all set.",None,Already signed with Confluence; decision made.
+RPL-0055,"Not interested, thanks.",None,Direct rejection; not interested.
+RPL-0056,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Product question about SSO and audit logs; evaluating.
+RPL-0057,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong person; IT lead handles purchases; no active interest.
+RPL-0058,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,On-leave automatic reply; no human answer.
+RPL-0059,"Not interested, thanks.",None,Direct rejection; not interested.
+RPL-0060,We're trialling a few tools for our 36-person team. What makes Notion better for wikis?,Medium,"Trialling tools for team; asks product comparison, no quote."
+RPL-0061,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, no current budget or buying action."
+RPL-0062,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, no buying signal."
+RPL-0063,"Please send an order form for Business, roughly 76 seats. We'd like to start next month.",High,Requests order form with seat count and start date.
+RPL-0064,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with competitor, no interest."
+RPL-0065,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with competitor, no interest."
+RPL-0066,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, evaluating product."
+RPL-0067,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay until planning cycle, no current intent."
+RPL-0068,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit rejection and request to stop emailing.
+RPL-0069,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Chose another tool, no follow-up."
+RPL-0070,"Love the product, happy on free for the moment.",Low,"Positive but no paid interest, free plan."
+RPL-0071,Can you send pricing for about 93 seats on Business? We'd want annual billing.,High,"Requests pricing for 93 seats, annual billing."
+RPL-0072,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Automatic out-of-office message, no human response."
+RPL-0073,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with competitor, no interest."
+RPL-0074,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Chose another tool, no follow-up."
+RPL-0075,Please remove me from this list.,None,Unsubscribe/removal request.
+RPL-0076,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, no current budget or buying action."
+RPL-0077,We have 36 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Asks upgrade process for 36 users and SSO.
+RPL-0078,Please remove me from this list.,None,Unsubscribe/removal request.
+RPL-0079,Unsubscribe.,None,Unsubscribe.
+RPL-0080,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product permissions question, evaluating."
+RPL-0081,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product security permissions question, no quote or buying detail."
+RPL-0082,We're trialling a few tools for our 118-person team. What makes Notion better for wikis?,Medium,"Trialing tools, asks product comparison; seat count alone not buying request."
+RPL-0083,"We might look at this later, just not a priority right now.",Low,"Polite delay, no active interest or buying signal."
+RPL-0084,"We might look at this later, just not a priority right now.",Low,"Polite delay, no active interest or buying signal."
+RPL-0085,"Love the product, happy on free for the moment.",Low,"Positive but no paid interest, currently free."
+RPL-0086,Please remove me from this list.,None,"Unsubscribe/removal request, clear rejection."
+RPL-0087,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Automatic out-of-office message, no human buying signal."
+RPL-0088,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product feature question, evaluating, no quote request."
+RPL-0089,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product feature question, evaluating, no quote request."
+RPL-0090,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong contact/no purchase authority, no active interest."
+RPL-0091,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product security permissions question, no quote or buying detail."
+RPL-0092,"We just signed with Confluence for the whole company, so we're all set.",None,"Already chose competitor, no need to follow up."
+RPL-0093,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"Automatic leave message, no human response yet."
+RPL-0094,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit later, no concrete buying need."
+RPL-0095,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question that could decide evaluation.
+RPL-0096,What's your data residency setup for EU customers?,Medium,"Security/compliance product question, no quote request."
+RPL-0097,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing tools and asking product fit, no quote request."
+RPL-0098,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Automatic travel message, no human answer yet."
+RPL-0099,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Passing to decision maker is positive step, no quote yet."
+RPL-0100,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong contact, no ability to act, no interest shown."
+RPL-0101,What's your data residency setup for EU customers?,Medium,"Asks about EU data residency, a product/security question with no quote request."
+RPL-0102,"Not interested, thanks.",None,"Direct rejection, no interest."
+RPL-0103,"Love the product, happy on free for the moment.",Low,"Polite reply, happy on free plan, no buying intent."
+RPL-0104,"Love the product, happy on free for the moment.",Low,"Polite reply, happy on free plan, no buying intent."
+RPL-0105,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0106,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence spaces with page history.
+RPL-0107,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, no concrete need now."
+RPL-0108,"Keep me posted, we could revisit after our planning cycle.",Low,"Check back after planning cycle, polite delay."
+RPL-0109,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer."
+RPL-0110,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan suffices, soft delay."
+RPL-0111,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question about Jira and Slack sync.
+RPL-0112,We don't plan to pay for a docs tool. Please stop emailing.,None,Refuses to pay and asks to stop emailing.
+RPL-0113,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, no concrete need now."
+RPL-0114,"Not interested, thanks.",None,"Direct rejection, no interest."
+RPL-0115,Please remove me from this list.,None,"Unsubscribe request, no interest."
+RPL-0116,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Unmonitored mailbox automatic message, no human answer."
+RPL-0117,What's your data residency setup for EU customers?,Medium,"Asks about EU data residency, a product/security question with no quote request."
+RPL-0118,"Keep me posted, we could revisit after our planning cycle.",Low,"Check back after planning cycle, polite delay."
+RPL-0119,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions only."
+RPL-0120,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"On leave automatic message, no human answer yet."
+RPL-0121,"Wrong person, sorry. Procurement decides on anything with more than 23 users.",Low,"Wrong person, procurement decides; no interest shown, contact cannot act."
+RPL-0122,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0123,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1; no concrete need."
+RPL-0124,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop, decision made."
+RPL-0125,"Wrong person, sorry. Procurement decides on anything with more than 87 users.",Low,"Wrong person, procurement decides; no interest shown, contact cannot act."
+RPL-0126,"We might look at this later, just not a priority right now.",Low,"Soft not now, not a priority; no active interest."
+RPL-0127,What's your data residency setup for EU customers?,Medium,Product/security question about EU data residency; evaluating.
+RPL-0128,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0129,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot act, points to office manager; no interest shown."
+RPL-0130,We're trialling a few tools for our 41-person team. What makes Notion better for wikis?,Medium,"Trialling tools, asking product comparison question; evaluating."
+RPL-0131,"Love the product, happy on free for the moment.",Low,Happy on free plan for now; no active buying interest.
+RPL-0132,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1; no concrete need."
+RPL-0133,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Product question about permissions across teamspaces; evaluating.
+RPL-0134,Please remove me from this list.,None,Unsubscribe request; do not follow up.
+RPL-0135,"We might look at this later, just not a priority right now.",Low,"Soft not now, not a priority; no active interest."
+RPL-0136,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions; evaluating."
+RPL-0137,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Product question about permissions across teamspaces; evaluating.
+RPL-0138,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works; soft delay, no need."
+RPL-0139,"Keep me posted, we could revisit after our planning cycle.",Low,"Revisit after planning cycle; polite delay, no concrete need."
+RPL-0140,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Personal use only, points to ops manager; no ability to buy."
+RPL-0141,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence for whole company; decision made, no follow-up."
+RPL-0142,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now; no concrete need or buying signal."
+RPL-0143,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now; no concrete need or buying signal."
+RPL-0144,What's your data residency setup for EU customers?,Medium,"Asking product/security question about EU data residency; evaluating, no quote request."
+RPL-0145,We're trialling a few tools for our 41-person team. What makes Notion better for wikis?,Medium,"Seat count but only product questions about wikis; evaluating, no pricing request."
+RPL-0146,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, happy on free plan; soft not-now, no buying signal."
+RPL-0147,"Not interested, thanks.",None,"Direct rejection, not interested; reps should not follow up."
+RPL-0148,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now; no concrete need or buying signal."
+RPL-0149,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now; no concrete need or buying signal."
+RPL-0150,What's your data residency setup for EU customers?,Medium,"Asking product/security question about EU data residency; evaluating, no quote request."
+RPL-0151,Can you send pricing for about 102 seats on Business? We'd want annual billing.,High,Explicit pricing request with seat count and billing preference; ready to buy.
+RPL-0152,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, happy on free plan; soft not-now, no buying signal."
+RPL-0153,We're trialling a few tools for our 77-person team. What makes Notion better for wikis?,Medium,"Seat count but only product questions about wikis; evaluating, no pricing request."
+RPL-0154,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases; no interest or ability to act."
+RPL-0155,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, happy on free plan; soft not-now, no buying signal."
+RPL-0156,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, asking product questions; evaluating, no quote."
+RPL-0157,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now; no concrete need or buying signal."
+RPL-0158,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern cannot decide; no interest or ability to act."
+RPL-0159,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now; no concrete need or buying signal."
+RPL-0160,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Asking product integration questions about Jira/Slack; evaluating, no quote request."
+RPL-0161,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker is a positive step; no quote request yet.
+RPL-0162,"Love the product, happy on free for the moment.",Low,"Polite, happy on free plan, no active buying interest."
+RPL-0163,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0164,We're trialling a few tools for our 30-person team. What makes Notion better for wikis?,Medium,"Evaluating tools, asking product question; seat count but no pricing request."
+RPL-0165,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0166,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern cannot act, no interest shown."
+RPL-0167,We're trialling a few tools for our 24-person team. What makes Notion better for wikis?,Medium,"Evaluating tools, asking product question; seat count but no pricing request."
+RPL-0168,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling automatic message, no human answer yet."
+RPL-0169,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back later."
+RPL-0170,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Asking product integration questions, evaluating fit."
+RPL-0171,Please remove me from this list.,None,"Remove from list request, rejection."
+RPL-0172,Not this quarter. The free plan works for us for now.,Low,"Soft not now, happy on free plan."
+RPL-0173,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, revisit in a few months."
+RPL-0174,We have 90 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,"Upgrade request with seat count and SSO, ready to buy."
+RPL-0175,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product feature question about plans, no quote request."
+RPL-0176,Is there a volume discount above 22 seats? We're comparing your quote to Confluence's.,High,"Comparing quotes, asking volume pricing at specific seat count."
+RPL-0177,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker is a positive step; no quote request.
+RPL-0178,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back later."
+RPL-0179,Is there a volume discount above 26 seats? We're comparing your quote to Confluence's.,High,"Comparing quotes, asking volume pricing at specific seat count."
+RPL-0180,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, revisit in a few months."
+RPL-0181,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"On leave until the 2nd, automatic message with no human answer yet."
+RPL-0182,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1, no concrete need today."
+RPL-0183,"Wrong person, sorry. Procurement decides on anything with more than 69 users.",Low,"Wrong person, procurement decides, no interest shown, contact cannot act."
+RPL-0184,We have 64 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,"Asks process to upgrade 64 seats and get SSO, concrete buying detail."
+RPL-0185,Please remove me from this list.,None,"Requests removal from list, direct rejection, do not follow up."
+RPL-0186,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, own notes only, points to ops manager, no interest."
+RPL-0187,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need today."
+RPL-0188,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling this week, automatic message with no human answer yet."
+RPL-0189,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Asks product question about Jira and Slack sync, evaluating, no quote."
+RPL-0190,"Please send an order form for Business, roughly 58 seats. We'd like to start next month.",High,"Requests order form for Business, 58 seats, start next month."
+RPL-0191,Our finance lead needs a quote for 17 seats before month end. Who do I talk to?,High,Finance lead needs quote for 17 seats before month end.
+RPL-0192,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"On leave until the 2nd, automatic message with no human answer yet."
+RPL-0193,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product/security question about permissions across teamspaces, evaluating."
+RPL-0194,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product/security question about permissions across teamspaces, evaluating."
+RPL-0195,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product/security question about permissions across teamspaces, evaluating."
+RPL-0196,"Love the product, happy on free for the moment.",Low,"Love product but happy on free, no active interest or ability to buy."
+RPL-0197,"Wrong person, sorry. Procurement decides on anything with more than 9 users.",Low,"Wrong person, procurement decides, no interest shown, contact cannot act."
+RPL-0198,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot make call, points to office manager, no ability to act."
+RPL-0199,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Forwarding to head of engineering who owns tooling decisions, positive step."
+RPL-0200,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need today."
+RPL-0201,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs across plans; evaluating, no quote request."
+RPL-0202,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong contact, personal use only, no buying ability; matches ops manager redirect."
+RPL-0203,What's your data residency setup for EU customers?,Medium,"Data residency question for EU customers; evaluating product, no quote request."
+RPL-0204,Unsubscribe.,None,Direct unsubscribe request; clear rejection.
+RPL-0205,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1; no concrete need today."
+RPL-0206,What's your data residency setup for EU customers?,Medium,"Data residency question for EU customers; evaluating product, no quote request."
+RPL-0207,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong contact, personal use only, no buying ability; matches ops manager redirect."
+RPL-0208,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence with page history; evaluating.
+RPL-0209,Unsubscribe.,None,Direct unsubscribe request; clear rejection.
+RPL-0210,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern cannot decide, redirected; no interest shown."
+RPL-0211,"Wrong person, sorry. Procurement decides on anything with more than 95 users.",Low,"Wrong person, procurement decides; no buying ability, matches redirect rule."
+RPL-0212,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle; no concrete need today."
+RPL-0213,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product question about permissions across teamspaces; evaluating, no quote request."
+RPL-0214,Please remove me from this list.,None,Remove from list request; clear rejection.
+RPL-0215,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.,Low,Student discount request; no budget or purchase authority per student rule.
+RPL-0216,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"On leave until the 2nd; automatic message, no human answer yet."
+RPL-0217,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong contact, personal use only, no buying ability; matches ops manager redirect."
+RPL-0218,Please remove me from this list.,None,Remove from list request; clear rejection.
+RPL-0219,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases; no buying ability, matches redirect rule."
+RPL-0220,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product question about permissions across teamspaces; evaluating, no quote request."
+RPL-0221,"We just signed with Confluence for the whole company, so we're all set.",None,Already signed with Confluence for whole company; decision made.
+RPL-0222,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling this week, automatic message with no human answer yet."
+RPL-0223,Please remove me from this list.,None,Requests removal from list; direct rejection.
+RPL-0224,Is there a volume discount above 100 seats? We're comparing your quote to Confluence's.,High,"Asking volume discount above 100 seats, comparing quotes; concrete pricing request."
+RPL-0225,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0226,We don't plan to pay for a docs tool. Please stop emailing.,None,"Won't pay for docs tool, asks to stop emailing; rejection."
+RPL-0227,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Mailbox not monitored, automatic message with no human answer."
+RPL-0228,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budgets frozen, check back Q1; polite delay, no concrete need."
+RPL-0229,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works; soft not-now answer."
+RPL-0230,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0231,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Consolidating on Microsoft Loop; decision made.
+RPL-0232,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0233,Our finance lead needs a quote for 61 seats before month end. Who do I talk to?,High,Finance lead needs quote for 61 seats before month end; concrete buying detail.
+RPL-0234,"Love the product, happy on free for the moment.",Low,Happy on free for now; no active interest or ability to buy.
+RPL-0235,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0236,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works; soft not-now answer."
+RPL-0237,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to head of engineering who owns tooling decisions; positive step.
+RPL-0238,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works; soft not-now answer."
+RPL-0239,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0240,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0241,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose Microsoft Loop and rejects follow-up.
+RPL-0242,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, no current budget or buying action."
+RPL-0243,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asking product/security details while evaluating.
+RPL-0244,"Please send an order form for Business, roughly 140 seats. We'd like to start next month.",High,Requests order form with seat count and timeline.
+RPL-0245,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Automatic unmonitored mailbox message, no human response."
+RPL-0246,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, no current buying signal."
+RPL-0247,Is there a volume discount above 29 seats? We're comparing your quote to Confluence's.,High,Requests pricing/discount at specific seat count while comparing quotes.
+RPL-0248,"Not interested, thanks.",None,Direct rejection.
+RPL-0249,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose Microsoft Loop and rejects follow-up.
+RPL-0250,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose Microsoft Loop and rejects follow-up.
+RPL-0251,"Love the product, happy on free for the moment.",Low,Positive but no current paid interest.
+RPL-0252,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, no current budget or buying action."
+RPL-0253,We're trialling a few tools for our 128-person team. What makes Notion better for wikis?,Medium,"Evaluating product for large team, asking informational question."
+RPL-0254,Do you offer free Plus for students? Our club has about 24 people on it.,Low,"Student club asking about free education pricing, no purchase authority."
+RPL-0255,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question influencing evaluation.
+RPL-0256,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,Automatic travel/out-of-office style response.
+RPL-0257,"Please send an order form for Business, roughly 29 seats. We'd like to start next month.",High,Requests order form with seat count and timeline.
+RPL-0258,"Please send an order form for Business, roughly 133 seats. We'd like to start next month.",High,Requests order form with seat count and timeline.
+RPL-0259,Please remove me from this list.,None,"Unsubscribe/removal request, direct rejection."
+RPL-0260,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite future revisit, no concrete current need."
+RPL-0261,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs, evaluating features, no quote request."
+RPL-0262,Is there a volume discount above 30 seats? We're comparing your quote to Confluence's.,High,"Asking volume discount above 30 seats, comparing quote to Confluence's, pricing at specific size."
+RPL-0263,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0264,Not this quarter. The free plan works for us for now.,Low,"Soft not-now, free plan works, no active interest."
+RPL-0265,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, points to ops manager, no interest shown."
+RPL-0266,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1, no concrete need."
+RPL-0267,"Wrong person, sorry. Procurement decides on anything with more than 87 users.",Low,"Wrong person, procurement decides, contact cannot act."
+RPL-0268,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, points to ops manager, no interest shown."
+RPL-0269,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases, cannot act."
+RPL-0270,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, points to ops manager, no interest shown."
+RPL-0271,Please remove me from this list.,None,"Unsubscribe request, remove from list."
+RPL-0272,Not this quarter. The free plan works for us for now.,Low,"Soft not-now, free plan works, no active interest."
+RPL-0273,Unsubscribe.,None,Unsubscribe request.
+RPL-0274,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot make call, points to office manager, no ability to act."
+RPL-0275,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs, evaluating features, no quote request."
+RPL-0276,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs, evaluating features, no quote request."
+RPL-0277,We have 23 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,"Upgrade request with 23 seats and SSO, concrete buying detail."
+RPL-0278,"We're ready to move the team over. What does Enterprise cost for 99 users, and can you send a contract?",High,"Ready to buy, Enterprise cost for 99 users, requests contract."
+RPL-0279,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions, evaluating not quoting."
+RPL-0280,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0281,"We're ready to move the team over. What does Enterprise cost for 82 users, and can you send a contract?",High,Requests Enterprise pricing for 82 users and a contract.
+RPL-0282,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, no concrete buying signal."
+RPL-0283,Unsubscribe.,None,Unsubscribe request indicates no interest.
+RPL-0284,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion with Confluence for engineering docs.
+RPL-0285,"We might look at this later, just not a priority right now.",Low,"Not a priority now, no active interest."
+RPL-0286,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit rejection and request to stop emailing.
+RPL-0287,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Asks product integration questions that could decide purchase.
+RPL-0288,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence migration and preserving page history.
+RPL-0289,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, asks to check back later."
+RPL-0290,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already consolidating on Microsoft Loop.
+RPL-0291,Unsubscribe.,None,Unsubscribe request indicates no interest.
+RPL-0292,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Asks product integration questions that could decide purchase.
+RPL-0293,Unsubscribe.,None,Unsubscribe request indicates no interest.
+RPL-0294,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, asks to check back later."
+RPL-0295,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,Automatic leave message with no human buying signal.
+RPL-0296,What's your data residency setup for EU customers?,Medium,"Asks about EU data residency, an evaluation question."
+RPL-0297,"We might look at this later, just not a priority right now.",Low,"Not a priority now, no active interest."
+RPL-0298,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already consolidating on Microsoft Loop.
+RPL-0299,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already consolidating on Microsoft Loop.
+RPL-0300,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion with Confluence for engineering docs.
+RPL-0301,Is there a way to import our Confluence spaces without losing page history?,Medium,"Asking about importing Confluence spaces with page history; product/migration question, no quote request."
+RPL-0302,We're trialling a few tools for our 80-person team. What makes Notion better for wikis?,Medium,"Trialling tools for 80-person team, asking product comparison; seat count but no pricing request."
+RPL-0303,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion to Confluence with product questions; evaluating, not requesting a quote."
+RPL-0304,What does it cost for students after we graduate? Just wondering for myself.,Low,Student asking about price for themselves; no budget or purchase authority.
+RPL-0305,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop; decision made, no follow-up."
+RPL-0306,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0307,"We're ready to move the team over. What does Enterprise cost for 32 users, and can you send a contract?",High,"Ready to move team, asking Enterprise cost for 32 users and requesting a contract."
+RPL-0308,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0309,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling message, automatic response with no human answer yet."
+RPL-0310,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Asking about Jira and Slack integrations; product question, no quote request."
+RPL-0311,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0312,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, maybe in a few months; no concrete need today."
+RPL-0313,We're trialling a few tools for our 123-person team. What makes Notion better for wikis?,Medium,"Trialling tools for 123-person team, asking product comparison; seat count but no pricing request."
+RPL-0314,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Mailbox not monitored, automatic message with no human answer."
+RPL-0315,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop; decision made, no follow-up."
+RPL-0316,We don't plan to pay for a docs tool. Please stop emailing.,None,"Won't pay for docs tool, requests stop emailing; direct rejection."
+RPL-0317,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Asking whether Business includes SAML SSO and audit logs; product question, no quote."
+RPL-0318,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, maybe in a few months; no concrete need today."
+RPL-0319,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0320,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budgets frozen until next year, check back in Q1; polite delay, no concrete need."
+RPL-0321,Not this quarter. The free plan works for us for now.,Low,"Soft 'not now' answer, happy on free plan, no buying signal."
+RPL-0322,"Love the product, happy on free for the moment.",Low,"Polite, happy on free for now, no active interest."
+RPL-0323,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0324,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, no concrete need today."
+RPL-0325,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs, evaluating."
+RPL-0326,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Product integration question, evaluating Notion."
+RPL-0327,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0328,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling automatic message, no human answer yet."
+RPL-0329,Do you offer free Plus for students? Our club has about 25 people on it.,Low,"Student club asking about free Plus, no purchase authority."
+RPL-0330,We don't plan to pay for a docs tool. Please stop emailing.,None,"Won't pay, asks to stop emailing, direct rejection."
+RPL-0331,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Unmonitored mailbox automatic message, no human answer."
+RPL-0332,"Please send an order form for Business, roughly 96 seats. We'd like to start next month.",High,"Order form request for Business, 96 seats, start next month."
+RPL-0333,We're trialling a few tools for our 61-person team. What makes Notion better for wikis?,Medium,"Trialling tools, asking product question, no quote request."
+RPL-0334,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Product integration question, evaluating Notion."
+RPL-0335,What's your data residency setup for EU customers?,Medium,"Data residency question for EU, evaluating."
+RPL-0336,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority now, no concrete need."
+RPL-0337,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern can't act, no interest shown."
+RPL-0338,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer yet."
+RPL-0339,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product question about permissions across teamspaces, evaluating."
+RPL-0340,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0341,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need today."
+RPL-0342,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority, no buying signal."
+RPL-0343,What's your data residency setup for EU customers?,Medium,"Product/security question about EU data residency, evaluating."
+RPL-0344,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need today."
+RPL-0345,Can you send pricing for about 28 seats on Business? We'd want annual billing.,High,Pricing request with specific seat count and billing preference.
+RPL-0346,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, happy on free plan for now."
+RPL-0347,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need today."
+RPL-0348,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, refuses paid tool, asks to stop emailing."
+RPL-0349,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence with page history.
+RPL-0350,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, check back Q1, polite delay."
+RPL-0351,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Forwarding to decision maker, positive step."
+RPL-0352,"Wrong person, sorry. Procurement decides on anything with more than 40 users.",Low,"Wrong person, procurement decides, no interest shown."
+RPL-0353,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0354,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Product question about SAML SSO and audit logs by tier.
+RPL-0355,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority, no buying signal."
+RPL-0356,"We're ready to move the team over. What does Enterprise cost for 23 users, and can you send a contract?",High,"Ready to buy, asks Enterprise cost for 23 users and contract."
+RPL-0357,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Forwarding to decision maker, positive step."
+RPL-0358,We're trialling a few tools for our 53-person team. What makes Notion better for wikis?,Medium,"Evaluating tools, product question about wikis, no quote request."
+RPL-0359,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, check back Q1, polite delay."
+RPL-0360,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, refuses paid tool, asks to stop emailing."
+RPL-0361,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence; product evaluation, no quote request."
+RPL-0362,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence migration preserving page history; product question.
+RPL-0363,"We might look at this later, just not a priority right now.",Low,"Polite delay, no current priority or buying signal."
+RPL-0364,We don't plan to pay for a docs tool. Please stop emailing.,None,Direct rejection and request to stop emailing.
+RPL-0365,Please remove me from this list.,None,Unsubscribe request; no interest.
+RPL-0366,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence migration preserving page history; product question.
+RPL-0367,What does it cost for students after we graduate? Just wondering for myself.,Low,Student asking price for themselves; no team purchase authority.
+RPL-0368,Please remove me from this list.,None,Unsubscribe request; no interest.
+RPL-0369,"We just signed with Confluence for the whole company, so we're all set.",None,Already signed with Confluence; decision made.
+RPL-0370,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker; positive evaluation step.
+RPL-0371,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker; positive evaluation step.
+RPL-0372,What does it cost for students after we graduate? Just wondering for myself.,Low,Student asking price for themselves; no team purchase authority.
+RPL-0373,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence migration preserving page history; product question.
+RPL-0374,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,Automatic travel reply; no human answer yet.
+RPL-0375,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, check back later; polite delay."
+RPL-0376,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence migration preserving page history; product question.
+RPL-0377,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks how permissions work; product/security question.
+RPL-0378,Not this quarter. The free plan works for us for now.,Low,Not this quarter; free plan sufficient for now.
+RPL-0379,"Please send an order form for Business, roughly 38 seats. We'd like to start next month.",High,Requests order form for 38 Business seats with start timeline.
+RPL-0380,What does it cost for students after we graduate? Just wondering for myself.,Low,Student asking price for themselves; no team purchase authority.
+RPL-0381,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Asks about Jira and Slack integrations; evaluating product fit.
+RPL-0382,"We might look at this later, just not a priority right now.",Low,Polite delay; no current priority or concrete buying signal.
+RPL-0383,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks how permissions work across teamspaces; product/security evaluation.
+RPL-0384,"Love the product, happy on free for the moment.",Low,Happy on free plan; no active buying interest.
+RPL-0385,"Not interested, thanks.",None,Direct rejection.
+RPL-0386,We're trialling a few tools for our 103-person team. What makes Notion better for wikis?,Medium,Trialling tools and asking product comparison; no quote request.
+RPL-0387,Unsubscribe.,None,Unsubscribe request.
+RPL-0388,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,Polite delay due to reorg; no concrete buying signal.
+RPL-0389,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,Automatic travel reply; no human answer yet.
+RPL-0390,"Not interested, thanks.",None,Direct rejection.
+RPL-0391,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,Polite delay due to reorg; no concrete buying signal.
+RPL-0392,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already consolidating on Microsoft Loop; decision made.
+RPL-0393,"We're ready to move the team over. What does Enterprise cost for 121 users, and can you send a contract?",High,Requests Enterprise pricing and contract for 121 users.
+RPL-0394,We don't plan to pay for a docs tool. Please stop emailing.,None,Refuses paid docs tool and asks to stop emailing.
+RPL-0395,"Love the product, happy on free for the moment.",Low,Happy on free plan; no active buying interest.
+RPL-0396,We're trialling a few tools for our 89-person team. What makes Notion better for wikis?,Medium,Trialling tools and asking product comparison; no quote request.
+RPL-0397,What's your data residency setup for EU customers?,Medium,Asks about EU data residency; product/security evaluation.
+RPL-0398,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,Polite delay due to reorg; no concrete buying signal.
+RPL-0399,Please remove me from this list.,None,Removal request.
+RPL-0400,We have 83 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Asks upgrade process for 83 users and SSO.
+RPL-0401,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office reply; no human buying signal.
+RPL-0402,We're trialling a few tools for our 17-person team. What makes Notion better for wikis?,Medium,"Evaluating Notion against other tools; asks product comparison, no quote."
+RPL-0403,Please remove me from this list.,None,Explicit unsubscribe request; no interest.
+RPL-0404,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose Microsoft Loop; direct rejection.
+RPL-0405,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office reply; no human buying signal.
+RPL-0406,Not this quarter. The free plan works for us for now.,Low,"Polite delay; free plan sufficient, no current buying intent."
+RPL-0407,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office reply; no human buying signal.
+RPL-0408,We're trialling a few tools for our 128-person team. What makes Notion better for wikis?,Medium,"Evaluating Notion for large team; product question, no pricing request."
+RPL-0409,Please remove me from this list.,None,Explicit unsubscribe request; no interest.
+RPL-0410,"Wrong person, sorry. Procurement decides on anything with more than 34 users.",Low,Wrong contact; no interest or ability to buy.
+RPL-0411,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,Automatic unmonitored mailbox message; no human response.
+RPL-0412,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Product integration question; evaluating fit, no quote request."
+RPL-0413,"Wrong person, sorry. Procurement decides on anything with more than 107 users.",Low,Wrong contact; no interest or ability to buy.
+RPL-0414,We're trialling a few tools for our 52-person team. What makes Notion better for wikis?,Medium,"Evaluating Notion for large team; product question, no pricing request."
+RPL-0415,How much is the Education plan per student? I'm asking for our study group.,Low,Student study-group pricing question; no purchase authority.
+RPL-0416,Can you send pricing for about 32 seats on Business? We'd want annual billing.,High,Requests Business pricing for 32 seats; concrete buying signal.
+RPL-0417,"Not interested, thanks.",None,Direct rejection; no interest.
+RPL-0418,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about Confluence import; evaluating fit.
+RPL-0419,"Love the product, happy on free for the moment.",Low,Polite no current interest; happy on free plan.
+RPL-0420,"Wrong person, sorry. Procurement decides on anything with more than 8 users.",Low,Wrong contact; no interest or ability to buy.
+RPL-0421,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling this week, automatic message with no human answer yet."
+RPL-0422,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0423,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence with page history; evaluating.
+RPL-0424,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office, automatic message with no human answer yet."
+RPL-0425,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence with page history; evaluating.
+RPL-0426,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, points to ops manager, no ability to buy."
+RPL-0427,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0428,We're trialling a few tools for our 169-person team. What makes Notion better for wikis?,Medium,"Trialling tools, asking product question; seat count but no pricing request."
+RPL-0429,"We might look at this later, just not a priority right now.",Low,"Soft not-now, no concrete need today."
+RPL-0430,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions; evaluating."
+RPL-0431,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern cannot act, points to office manager."
+RPL-0432,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence with page history; evaluating.
+RPL-0433,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling this week, automatic message with no human answer yet."
+RPL-0434,Our finance lead needs a quote for 103 seats before month end. Who do I talk to?,High,Quote request for 103 seats before month end; ready to buy.
+RPL-0435,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, asks to stop emailing."
+RPL-0436,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0437,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions; evaluating."
+RPL-0438,Our finance lead needs a quote for 34 seats before month end. Who do I talk to?,High,Quote request for 34 seats before month end; ready to buy.
+RPL-0439,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling this week, automatic message with no human answer yet."
+RPL-0440,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, asks to stop emailing."
+RPL-0441,"Wrong person, sorry. Procurement decides on anything with more than 19 users.",Low,"Wrong person; procurement owns purchases, no buying intent."
+RPL-0442,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion with Confluence; product evaluation question.
+RPL-0443,"Not interested, thanks.",None,Direct rejection.
+RPL-0444,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit after planning cycle.
+RPL-0445,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Chose Microsoft Loop; no follow-up.
+RPL-0446,"Not interested, thanks.",None,Direct rejection.
+RPL-0447,"I'm an intern here, so I can't make this call. Try our office manager.",Low,Intern cannot decide; referred to office manager.
+RPL-0448,We have 30 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Seat count and upgrade/SSO request indicate readiness.
+RPL-0449,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Asks about integrations; product evaluation.
+RPL-0450,Unsubscribe.,None,Unsubscribe request.
+RPL-0451,"I'm an intern here, so I can't make this call. Try our office manager.",Low,Intern cannot decide; referred to office manager.
+RPL-0452,What's your data residency setup for EU customers?,Medium,Asks about EU data residency; product/security question.
+RPL-0453,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,Soft delay due to reorg; no current intent.
+RPL-0454,"Love the product, happy on free for the moment.",Low,Happy on free plan; no active interest.
+RPL-0455,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.,Low,Student discount request; no purchase authority.
+RPL-0456,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong person; IT lead handles purchases.
+RPL-0457,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit after planning cycle.
+RPL-0458,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Asks about SSO/audit logs; product question.
+RPL-0459,"Love the product, happy on free for the moment.",Low,Happy on free plan; no active interest.
+RPL-0460,Not this quarter. The free plan works for us for now.,Low,Not this quarter; free plan sufficient.
+RPL-0461,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,Polite delay due to reorg; no concrete buying signal.
+RPL-0462,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks product/security question about permissions; evaluating.
+RPL-0463,Not this quarter. The free plan works for us for now.,Low,Free plan sufficient; no current buying intent.
+RPL-0464,We have 46 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Seat count and upgrade/SSO request indicate ready to buy.
+RPL-0465,Please remove me from this list.,None,Requests removal from list; direct rejection.
+RPL-0466,What's your data residency setup for EU customers?,Medium,Asks EU data residency; product/security evaluation.
+RPL-0467,What does it cost for students after we graduate? Just wondering for myself.,Low,Student asking personal price; no purchase authority.
+RPL-0468,Is there a volume discount above 79 seats? We're comparing your quote to Confluence's.,High,Volume discount and quote comparison with seat count; high intent.
+RPL-0469,Not this quarter. The free plan works for us for now.,Low,Free plan sufficient; no current buying intent.
+RPL-0470,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit refusal to pay and stop emailing.
+RPL-0471,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong contact; no interest or ability to buy.
+RPL-0472,I just use it for my own notes. You'd want to talk to our ops manager.,Low,Personal use only; refers to ops manager.
+RPL-0473,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit refusal to pay and stop emailing.
+RPL-0474,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Out-of-office automatic response; no human answer.
+RPL-0475,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks product/security question about permissions; evaluating.
+RPL-0476,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Out-of-office automatic response; no human answer.
+RPL-0477,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0478,Not this quarter. The free plan works for us for now.,Low,Free plan sufficient; no current buying intent.
+RPL-0479,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit refusal to pay and stop emailing.
+RPL-0480,"We might look at this later, just not a priority right now.",Low,Polite delay; not a priority now.
+RPL-0481,"Love the product, happy on free for the moment.",Low,Positive but no active interest or ability to buy; happy on free.
+RPL-0482,Please remove me from this list.,None,"Unsubscribe request, direct rejection."
+RPL-0483,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, no concrete need today."
+RPL-0484,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, no concrete need today."
+RPL-0485,"I'm an intern here, so I can't make this call. Try our office manager.",Low,Contact cannot act; no interest shown.
+RPL-0486,Is there a way to import our Confluence spaces without losing page history?,Medium,"Asking product migration question, evaluating."
+RPL-0487,How much is the Education plan per student? I'm asking for our study group.,Low,Student study group lacks purchase authority; discount inquiry.
+RPL-0488,What's your data residency setup for EU customers?,Medium,"Product/security question, evaluating."
+RPL-0489,Not this quarter. The free plan works for us for now.,Low,"Polite delay, no concrete need today."
+RPL-0490,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0491,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, no concrete need today."
+RPL-0492,Not this quarter. The free plan works for us for now.,Low,"Polite delay, no concrete need today."
+RPL-0493,I'm not the right person. Our IT lead handles software purchases.,Low,Contact cannot act; no interest shown.
+RPL-0494,Not this quarter. The free plan works for us for now.,Low,"Polite delay, no concrete need today."
+RPL-0495,We don't plan to pay for a docs tool. Please stop emailing.,None,Direct rejection and request to stop emailing.
+RPL-0496,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing tools, asking product questions."
+RPL-0497,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.,Low,Student discount inquiry; no purchase authority.
+RPL-0498,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Automatic mailbox message, no human answer."
+RPL-0499,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing tools, asking product questions."
+RPL-0500,What's your data residency setup for EU customers?,Medium,"Product/security question, evaluating."
+RPL-0501,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer yet."
+RPL-0502,"We might look at this later, just not a priority right now.",Low,"Soft not-now, no real interest or ability to act."
+RPL-0503,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases, no interest shown."
+RPL-0504,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence page history.
+RPL-0505,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0506,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need."
+RPL-0507,What's your data residency setup for EU customers?,Medium,Product/security question about EU data residency.
+RPL-0508,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Product question about SAML SSO and audit logs.
+RPL-0509,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Product question about SAML SSO and audit logs.
+RPL-0510,What's your data residency setup for EU customers?,Medium,Product/security question about EU data residency.
+RPL-0511,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question about Jira and Slack sync.
+RPL-0512,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0513,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Forwarding to decision maker, positive step."
+RPL-0514,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop, decision made."
+RPL-0515,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need."
+RPL-0516,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop, decision made."
+RPL-0517,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern cannot act, no interest shown."
+RPL-0518,Is there a volume discount above 59 seats? We're comparing your quote to Confluence's.,High,"Comparing quotes at specific seat count, pricing request."
+RPL-0519,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0520,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person, intern cannot act, no interest shown."
+RPL-0521,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,Automatic mailbox notice; no human buying signal.
+RPL-0522,"Wrong person, sorry. Procurement decides on anything with more than 132 users.",Low,"Wrong contact; procurement owns purchases, no interest shown."
+RPL-0523,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,Automatic travel notice; no human response yet.
+RPL-0524,"We might look at this later, just not a priority right now.",Low,Polite delay; no current priority or buying action.
+RPL-0525,What's your data residency setup for EU customers?,Medium,"Asks about EU data residency, a product evaluation question."
+RPL-0526,Please remove me from this list.,None,Explicit unsubscribe request; no interest.
+RPL-0527,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Personal use only; redirects to ops manager, no buying intent."
+RPL-0528,"Not interested, thanks.",None,Direct rejection; not interested.
+RPL-0529,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Asks product feature availability for Business versus Enterprise.
+RPL-0530,"Love the product, happy on free for the moment.",Low,Positive but happy on free; no purchase intent.
+RPL-0531,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker is a positive evaluation step.
+RPL-0532,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office notice; no human answer yet.
+RPL-0533,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Personal use only; redirects to ops manager, no buying intent."
+RPL-0534,Not this quarter. The free plan works for us for now.,Low,Soft delay; free plan sufficient for now.
+RPL-0535,Not this quarter. The free plan works for us for now.,Low,Soft delay; free plan sufficient for now.
+RPL-0536,Please remove me from this list.,None,Explicit removal request; no interest.
+RPL-0537,"We might look at this later, just not a priority right now.",Low,Polite delay; not a priority now.
+RPL-0538,We don't plan to pay for a docs tool. Please stop emailing.,None,Rejects paid docs tool and asks to stop emailing.
+RPL-0539,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,Automatic travel notice; no human response yet.
+RPL-0540,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay; revisit after planning cycle, no concrete need."
+RPL-0541,"Love the product, happy on free for the moment.",Low,Positive but no purchase intent; happy on free plan.
+RPL-0542,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Consolidating on Microsoft Loop; clear rejection.
+RPL-0543,"We just signed with Confluence for the whole company, so we're all set.",None,Already signed with Confluence; no need.
+RPL-0544,Is there a volume discount above 66 seats? We're comparing your quote to Confluence's.,High,Asks volume discount and compares quote; buying signal.
+RPL-0545,"We just signed with Confluence for the whole company, so we're all set.",None,Already signed with Confluence; no need.
+RPL-0546,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks about Confluence import with page history; product evaluation.
+RPL-0547,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit after planning cycle.
+RPL-0548,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks how permissions work; product/security evaluation.
+RPL-0549,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,Budget frozen; check back later.
+RPL-0550,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0551,"We might look at this later, just not a priority right now.",Low,Not a priority now; soft delay.
+RPL-0552,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Asks SSO/audit log availability; product question.
+RPL-0553,We're trialling a few tools for our 18-person team. What makes Notion better for wikis?,Medium,Trialling tools; asks product comparison for wikis.
+RPL-0554,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion and Confluence; product evaluation.
+RPL-0555,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,Unmonitored mailbox; automatic response.
+RPL-0556,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Asks SSO/audit log availability; product question.
+RPL-0557,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker; positive step.
+RPL-0558,"I'm an intern here, so I can't make this call. Try our office manager.",Low,Intern cannot decide; wrong contact.
+RPL-0559,Is there a volume discount above 84 seats? We're comparing your quote to Confluence's.,High,Asks volume discount and compares quote; buying signal.
+RPL-0560,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing Notion and Confluence; product evaluation.
+RPL-0561,Please remove me from this list.,None,"Unsubscribe request, direct rejection."
+RPL-0562,Is there a way to import our Confluence spaces without losing page history?,Medium,"Asking migration/product question, evaluating."
+RPL-0563,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, no current buying intent."
+RPL-0564,We don't plan to pay for a docs tool. Please stop emailing.,None,Direct rejection and stop emailing.
+RPL-0565,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong contact, no active interest."
+RPL-0566,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing tools, evaluating, no quote request."
+RPL-0567,We don't plan to pay for a docs tool. Please stop emailing.,None,Direct rejection and stop emailing.
+RPL-0568,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, no buying ability."
+RPL-0569,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product/security question, evaluating."
+RPL-0570,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit later."
+RPL-0571,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0572,Is there a way to import our Confluence spaces without losing page history?,Medium,"Asking migration/product question, evaluating."
+RPL-0573,Not this quarter. The free plan works for us for now.,Low,"Polite delay, no current buying intent."
+RPL-0574,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"No authority, wrong contact."
+RPL-0575,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Automatic out-of-office message, no human answer."
+RPL-0576,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Product question, evaluating."
+RPL-0577,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product/security question, evaluating."
+RPL-0578,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product/security question, evaluating."
+RPL-0579,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"No authority, wrong contact."
+RPL-0580,"Wrong person, sorry. Procurement decides on anything with more than 64 users.",Low,"Wrong person, no ability to act."
+RPL-0581,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop, decision made, no follow-up wanted."
+RPL-0582,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Forwarding to head of engineering who owns tooling decisions, positive step."
+RPL-0583,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, won't pay, asks to stop emailing."
+RPL-0584,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Product question about SAML SSO and audit logs across plans.
+RPL-0585,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Unmonitored mailbox, automatic message, no human answer."
+RPL-0586,Our finance lead needs a quote for 32 seats before month end. Who do I talk to?,High,Quote request for 32 seats with month-end deadline.
+RPL-0587,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, personal use only, points to ops manager, no interest."
+RPL-0588,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority currently, no concrete need."
+RPL-0589,"Wrong person, sorry. Procurement decides on anything with more than 19 users.",Low,"Wrong person, procurement decides, contact cannot act."
+RPL-0590,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases, no interest shown."
+RPL-0591,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need."
+RPL-0592,"Love the product, happy on free for the moment.",Low,"Happy on free plan for now, no active buying interest."
+RPL-0593,What's your data residency setup for EU customers?,Medium,Product question about data residency for EU customers.
+RPL-0594,Is there a way to import our Confluence spaces without losing page history?,Medium,Migration question about importing Confluence spaces with page history.
+RPL-0595,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, won't pay, asks to stop emailing."
+RPL-0596,"Wrong person, sorry. Procurement decides on anything with more than 72 users.",Low,"Wrong person, procurement decides, contact cannot act."
+RPL-0597,Is there a volume discount above 112 seats? We're comparing your quote to Confluence's.,High,"Volume discount request above 112 seats, comparing quotes to Confluence."
+RPL-0598,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority currently, no concrete need."
+RPL-0599,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works for now, polite delay."
+RPL-0600,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority currently, no concrete need."
+RPL-0601,Unsubscribe.,None,"Direct unsubscribe request, no buying intent."
+RPL-0602,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due reorg, no concrete buying detail."
+RPL-0603,"Love the product, happy on free for the moment.",Low,"Positive but no paid interest, free plan sufficient."
+RPL-0604,"We're ready to move the team over. What does Enterprise cost for 100 users, and can you send a contract?",High,Requests Enterprise pricing and contract with seat count.
+RPL-0605,What's your data residency setup for EU customers?,Medium,"Product/security question, evaluating, no quote request."
+RPL-0606,Is there a volume discount above 116 seats? We're comparing your quote to Confluence's.,High,Pricing/discount request with seat count and quote comparison.
+RPL-0607,"Wrong person, sorry. Procurement decides on anything with more than 32 users.",Low,"Wrong contact, no interest or ability to act."
+RPL-0608,What's your data residency setup for EU customers?,Medium,"Product/security question, evaluating, no quote request."
+RPL-0609,What's your data residency setup for EU customers?,Medium,"Product/security question, evaluating, no quote request."
+RPL-0610,We have 14 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Upgrade process with seat count and SSO request.
+RPL-0611,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Wrong person/no authority, no buying signal."
+RPL-0612,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Personal use, wrong contact, no purchase intent."
+RPL-0613,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"Automatic leave message, no human buying signal."
+RPL-0614,Please remove me from this list.,None,"Removal request, no interest."
+RPL-0615,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product/security question, evaluating."
+RPL-0616,"Not interested, thanks.",None,"Direct rejection, no interest."
+RPL-0617,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Already chose another tool, no follow-up."
+RPL-0618,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Automatic out-of-office message, no buying signal."
+RPL-0619,Not this quarter. The free plan works for us for now.,Low,"Polite delay, free plan sufficient, no concrete need."
+RPL-0620,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with competitor, no interest."
+RPL-0621,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, no concrete need today."
+RPL-0622,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer."
+RPL-0623,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs, evaluating."
+RPL-0624,Can you send pricing for about 39 seats on Business? We'd want annual billing.,High,Pricing request with seat count and billing preference.
+RPL-0625,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0626,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0627,We have 55 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Upgrade request with seat count and SSO.
+RPL-0628,Not this quarter. The free plan works for us for now.,Low,"Soft not now, happy on free plan."
+RPL-0629,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, requests stop emailing."
+RPL-0630,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0631,"Love the product, happy on free for the moment.",Low,"Likes product but happy on free, no buying intent."
+RPL-0632,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0633,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer."
+RPL-0634,"Not interested, thanks.",None,"Direct rejection, not interested."
+RPL-0635,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back later."
+RPL-0636,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made."
+RPL-0637,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Product integration question, evaluating Notion."
+RPL-0638,"Wrong person, sorry. Procurement decides on anything with more than 103 users.",Low,"Wrong person, no interest, cannot act."
+RPL-0639,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back later."
+RPL-0640,We have 80 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Upgrade request with seat count and SSO.
+RPL-0641,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1. No concrete need today."
+RPL-0642,"Love the product, happy on free for the moment.",Low,"Happy on free plan, no active interest or ability to buy."
+RPL-0643,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, no concrete need today."
+RPL-0644,"We might look at this later, just not a priority right now.",Low,"Polite delay, not a priority, no concrete need."
+RPL-0645,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, refuses to pay, asks to stop emailing."
+RPL-0646,"Love the product, happy on free for the moment.",Low,"Happy on free plan, no active interest or ability to buy."
+RPL-0647,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0648,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1. No concrete need today."
+RPL-0649,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works. Soft not-now answer."
+RPL-0650,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs, evaluating features."
+RPL-0651,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,"Product integration question about Jira and Slack, evaluating."
+RPL-0652,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling message, automatic response, no human answer yet."
+RPL-0653,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions, evaluating."
+RPL-0654,We're trialling a few tools for our 40-person team. What makes Notion better for wikis?,Medium,"Trialling tools, asking product question. Seat count but no pricing request."
+RPL-0655,We're trialling a few tools for our 97-person team. What makes Notion better for wikis?,Medium,"Trialling tools, asking product question. Seat count but no pricing request."
+RPL-0656,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.,Low,"Student asking about discount, no budget or purchase authority."
+RPL-0657,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0658,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions, evaluating."
+RPL-0659,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Travelling message, automatic response, no human answer yet."
+RPL-0660,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, decision made, all set."
+RPL-0661,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Asks product/security feature availability; evaluating, no quote request."
+RPL-0662,We don't plan to pay for a docs tool. Please stop emailing.,None,Direct rejection and request to stop emailing.
+RPL-0663,"Love the product, happy on free for the moment.",Low,Polite no current interest; happy on free plan.
+RPL-0664,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already chose another tool; no follow-up.
+RPL-0665,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence; evaluating, no quote."
+RPL-0666,Can you send pricing for about 51 seats on Business? We'd want annual billing.,High,Requests pricing for 51 seats; concrete buying detail.
+RPL-0667,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks migration question about Confluence page history.
+RPL-0668,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit after planning cycle.
+RPL-0669,"Wrong person, sorry. Procurement decides on anything with more than 100 users.",Low,Wrong person; no interest or ability to act.
+RPL-0670,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Asks product integration question; evaluating.
+RPL-0671,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Asks product/security feature availability; evaluating, no quote request."
+RPL-0672,What's your data residency setup for EU customers?,Medium,Asks data residency question; evaluating.
+RPL-0673,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker; positive step.
+RPL-0674,Our finance lead needs a quote for 108 seats before month end. Who do I talk to?,High,Requests quote for 108 seats before deadline.
+RPL-0675,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks permissions question; evaluating.
+RPL-0676,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Asks permissions question; evaluating.
+RPL-0677,What's your data residency setup for EU customers?,Medium,Asks data residency question; evaluating.
+RPL-0678,We have 80 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Asks upgrade process for 80 users and SSO.
+RPL-0679,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong person; IT lead handles purchases.
+RPL-0680,We're trialling a few tools for our 8-person team. What makes Notion better for wikis?,Medium,"Trialling tools; asks product comparison, no quote."
+RPL-0681,Not this quarter. The free plan works for us for now.,Low,"Polite delay; free plan sufficient, no buying intent."
+RPL-0682,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker indicates evaluation.
+RPL-0683,"Love the product, happy on free for the moment.",Low,"Positive but happy on free, no purchase intent."
+RPL-0684,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Personal use and wrong contact, no buying ability."
+RPL-0685,Our finance lead needs a quote for 41 seats before month end. Who do I talk to?,High,Requests quote for 41 seats before month end.
+RPL-0686,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker indicates evaluation.
+RPL-0687,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, asks to check later."
+RPL-0688,"We just signed with Confluence for the whole company, so we're all set.",None,"Already signed with Confluence, clear rejection."
+RPL-0689,I'm not the right person. Our IT lead handles software purchases.,Low,Wrong person; IT handles purchases.
+RPL-0690,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Delay due to reorg, no current intent."
+RPL-0691,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks migration question about Confluence page history.
+RPL-0692,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks migration question about Confluence page history.
+RPL-0693,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"Automatic leave message, no human response."
+RPL-0694,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,"Automatic travel message, no human response."
+RPL-0695,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Asks product/security permissions question, evaluating."
+RPL-0696,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay until planning cycle, no concrete need."
+RPL-0697,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern lacks authority, points elsewhere."
+RPL-0698,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"Automatic leave message, no human response."
+RPL-0699,"We might look at this later, just not a priority right now.",Low,"Low priority, may revisit later."
+RPL-0700,"Wrong person, sorry. Procurement decides on anything with more than 8 users.",Low,"Wrong person; procurement decides, no buying signal."
+RPL-0701,"Keep me posted, we could revisit after our planning cycle.",Low,"Polite delay, revisit after planning cycle, no concrete need today."
+RPL-0702,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Soft not-now due to reorg, no buying signal."
+RPL-0703,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases, no interest shown."
+RPL-0704,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence, product questions, no quote request."
+RPL-0705,This mailbox is not monitored. For urgent matters contact the front desk.,Auto-reply,"Unmonitored mailbox, automatic message, no human answer."
+RPL-0706,We have 23 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,"Seat count 23, upgrade process and SSO request, ready to buy."
+RPL-0707,What's your data residency setup for EU customers?,Medium,"Data residency question for EU, evaluating, no quote request."
+RPL-0708,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases, no interest shown."
+RPL-0709,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop, decision made, no follow-up."
+RPL-0710,We're trialling a few tools for our 73-person team. What makes Notion better for wikis?,Medium,"Trialling tools, 73-person team, product question, no pricing request."
+RPL-0711,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Personal use only, redirected to ops manager, no buying ability."
+RPL-0712,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question on SSO and audit logs, evaluating plans."
+RPL-0713,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Permissions question across teamspaces, evaluating, no quote request."
+RPL-0714,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budgets frozen, check back Q1, polite delay, no concrete need."
+RPL-0715,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, free plan works, soft not-now."
+RPL-0716,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Permissions question across teamspaces, evaluating, no quote request."
+RPL-0717,What's your data residency setup for EU customers?,Medium,"Data residency question for EU, evaluating, no quote request."
+RPL-0718,What's your data residency setup for EU customers?,Medium,"Data residency question for EU, evaluating, no quote request."
+RPL-0719,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,"On leave until the 2nd, automatic message, no human answer."
+RPL-0720,Unsubscribe.,None,"Unsubscribe request, direct rejection, do not follow up."
+RPL-0721,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,Automatic out-of-office message stating sender is on leave; no human answer or buying signal.
+RPL-0722,"We might look at this later, just not a priority right now.",Low,"Polite soft delay, not a priority now; no interest or ability to act."
+RPL-0723,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, revisit in a few months; no concrete need today."
+RPL-0724,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product/security question about teamspace permissions; evaluating, no quote request."
+RPL-0725,Not this quarter. The free plan works for us for now.,Low,"Soft not-now answer, happy on free plan this quarter; no buying intent."
+RPL-0726,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker is a positive step; no quote request yet.
+RPL-0727,Please remove me from this list.,None,Explicit request to be removed from list; clear rejection.
+RPL-0728,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,"Product question about SSO and audit logs by plan; evaluating, no quote."
+RPL-0729,"We might look at this later, just not a priority right now.",Low,"Polite soft delay, not a priority now; no interest or ability to act."
+RPL-0730,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, refuses to pay and asks to stop emailing."
+RPL-0731,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Already consolidating on Microsoft Loop; decision made, no follow-up."
+RPL-0732,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, revisit in a few months; no concrete need today."
+RPL-0733,Unsubscribe.,None,"Unsubscribe request; clear rejection, do not follow up."
+RPL-0734,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Budget frozen, check back in Q1; polite delay with no concrete need."
+RPL-0735,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay due to reorg, revisit in a few months; no concrete need today."
+RPL-0736,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product/security question about teamspace permissions; evaluating, no quote request."
+RPL-0737,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing Notion with Confluence via product questions; evaluating, not quoting."
+RPL-0738,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong person, IT lead handles purchases; no interest shown, cannot act."
+RPL-0739,Is there a volume discount above 114 seats? We're comparing your quote to Confluence's.,High,Asking volume discount above 114 seats while comparing quotes; concrete buying detail.
+RPL-0740,We have 112 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,"112 seats in workspace, asking upgrade process and SSO; ready to buy."
+RPL-0741,We have 26 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,"Upgrade request with seat count (26) and SSO, matches ready-to-buy pattern."
+RPL-0742,"Please send an order form for Business, roughly 30 seats. We'd like to start next month.",High,"Order form request for Business, 30 seats, start next month."
+RPL-0743,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1, no concrete need."
+RPL-0744,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority, no buying signal."
+RPL-0745,Our finance lead needs a quote for 109 seats before month end. Who do I talk to?,High,"Quote request for 109 seats before month end, concrete buying detail."
+RPL-0746,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,"Forwarding to decision maker, positive step, no quote yet."
+RPL-0747,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, happy on free plan for now."
+RPL-0748,Not this quarter. The free plan works for us for now.,Low,"Not this quarter, happy on free plan for now."
+RPL-0749,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,"Polite delay, budgets frozen, check back Q1, no concrete need."
+RPL-0750,Unsubscribe.,None,"Unsubscribe request, direct rejection."
+RPL-0751,Please remove me from this list.,None,"Remove from list request, direct rejection."
+RPL-0752,"Keep me posted, we could revisit after our planning cycle.",Low,"Revisit after planning cycle, polite delay, no concrete need."
+RPL-0753,I just use it for my own notes. You'd want to talk to our ops manager.,Low,"Wrong person, personal use only, no ability to buy."
+RPL-0754,"Love the product, happy on free for the moment.",Low,"Happy on free for the moment, no active interest."
+RPL-0755,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Mid-reorg, maybe in a few months, polite delay."
+RPL-0756,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot decide, wrong person, no ability to act."
+RPL-0757,"Keep me posted, we could revisit after our planning cycle.",Low,"Revisit after planning cycle, polite delay, no concrete need."
+RPL-0758,"We're consolidating on Microsoft Loop, so no need to follow up.",None,"Consolidating on Microsoft Loop, decision made, no follow-up."
+RPL-0759,"Not interested, thanks.",None,"Not interested, direct rejection."
+RPL-0760,Can you show me how permissions work across teamspaces? Security will ask.,Medium,"Product/security question about permissions, evaluating, no quote yet."
+RPL-0761,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot decide; points to office manager, no buying authority."
+RPL-0762,Not this quarter. The free plan works for us for now.,Low,Polite delay; free plan sufficient for now.
+RPL-0763,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot decide; points to office manager, no buying authority."
+RPL-0764,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question; evaluating fit.
+RPL-0765,We're trialling a few tools for our 13-person team. What makes Notion better for wikis?,Medium,"Trialing tools; asks product comparison, no pricing request."
+RPL-0766,"We might look at this later, just not a priority right now.",Low,Polite delay; not a current priority.
+RPL-0767,Not this quarter. The free plan works for us for now.,Low,Polite delay; free plan sufficient for now.
+RPL-0768,Do you offer free Plus for students? Our club has about 57 people on it.,Low,Student club asks free Plus; no purchase authority.
+RPL-0769,Can you send pricing for about 55 seats on Business? We'd want annual billing.,High,Requests Business pricing for 55 seats with annual billing.
+RPL-0770,I'm travelling this week and will get back to you as soon as I can.,Auto-reply,Automatic travel reply; no human response yet.
+RPL-0771,Can you send pricing for about 128 seats on Business? We'd want annual billing.,High,Requests Business pricing for 128 seats with annual billing.
+RPL-0772,Is there a volume discount above 135 seats? We're comparing your quote to Confluence's.,High,Asks volume discount and compares quote; concrete buying signal.
+RPL-0773,"Love the product, happy on free for the moment.",Low,Positive but happy on free; no active buying intent.
+RPL-0774,Please remove me from this list.,None,Explicit unsubscribe request; no interest.
+RPL-0775,I'm not the right person. Our IT lead handles software purchases.,Low,"Wrong contact; IT lead handles purchases, no interest shown."
+RPL-0776,"I'm an intern here, so I can't make this call. Try our office manager.",Low,"Intern cannot decide; points to office manager, no buying authority."
+RPL-0777,What's your data residency setup for EU customers?,Medium,Asks EU data residency; product/security evaluation.
+RPL-0778,Is there a way to import our Confluence spaces without losing page history?,Medium,Asks Confluence migration with page history; evaluation question.
+RPL-0779,We don't plan to pay for a docs tool. Please stop emailing.,None,Direct rejection and stop-emailing request.
+RPL-0780,How much is the Education plan per student? I'm asking for our study group.,Low,Study group asks Education pricing; no purchase authority.
+RPL-0781,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit after planning cycle.
+RPL-0782,"Love the product, happy on free for the moment.",Low,Happy on free plan; no active buying interest.
+RPL-0783,Can you show me how permissions work across teamspaces? Security will ask.,Medium,Product/security question about permissions; evaluating.
+RPL-0784,"We're consolidating on Microsoft Loop, so no need to follow up.",None,Already consolidating on Microsoft Loop; decision made.
+RPL-0785,We don't plan to pay for a docs tool. Please stop emailing.,None,Explicit rejection and stop emailing request.
+RPL-0786,"Keep me posted, we could revisit after our planning cycle.",Low,Polite delay; revisit after planning cycle.
+RPL-0787,I just use it for my own notes. You'd want to talk to our ops manager.,Low,Wrong contact; no ability to buy.
+RPL-0788,"We might look at this later, just not a priority right now.",Low,Soft not now; not a priority.
+RPL-0789,"I'm an intern here, so I can't make this call. Try our office manager.",Low,Intern lacks authority; points to office manager.
+RPL-0790,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker; positive step.
+RPL-0791,I just use it for my own notes. You'd want to talk to our ops manager.,Low,Wrong contact; no ability to buy.
+RPL-0792,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.,Low,Student discount request; no purchase authority.
+RPL-0793,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Product/security question about SSO and audit logs.
+RPL-0794,Not this quarter. The free plan works for us for now.,Low,Free plan sufficient; not this quarter.
+RPL-0795,We're trialling a few tools for our 91-person team. What makes Notion better for wikis?,Medium,Evaluating tools; product question despite team size.
+RPL-0796,"I'm an intern here, so I can't make this call. Try our office manager.",Low,Intern lacks authority; points to office manager.
+RPL-0797,Unsubscribe.,None,Unsubscribe request; direct rejection.
+RPL-0798,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,Budget delay; check back later.
+RPL-0799,"Interesting, but budgets are frozen until next year. Check back in Q1?",Low,Budget delay; check back later.
+RPL-0800,Thanks for your message. I'm on leave until the 2nd and will respond then.,Auto-reply,Automatic leave message; no human answer yet.
+RPL-0801,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker indicates interest.
+RPL-0802,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office reply with no human answer.
+RPL-0803,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,Automatic out-of-office reply with no human answer.
+RPL-0804,We have 106 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Seat count and upgrade/SSO request indicate buying intent.
+RPL-0805,Unsubscribe.,None,Unsubscribe request is a direct rejection.
+RPL-0806,"Love the product, happy on free for the moment.",Low,Polite no current interest; free plan sufficient.
+RPL-0807,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker indicates interest.
+RPL-0808,"Love the product, happy on free for the moment.",Low,Polite no current interest; free plan sufficient.
+RPL-0809,"Love the product, happy on free for the moment.",Low,Polite no current interest; free plan sufficient.
+RPL-0810,"Not interested, thanks.",None,Direct rejection with no interest.
+RPL-0811,"Please send an order form for Business, roughly 140 seats. We'd like to start next month.",High,Order form request with seat count and timeline.
+RPL-0812,What's your data residency setup for EU customers?,Medium,Product/security question about EU data residency.
+RPL-0813,"Forwarding to our head of engineering, who owns tooling decisions.",Medium,Forwarding to decision maker indicates interest.
+RPL-0814,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,Polite delay due to reorg; no concrete need.
+RPL-0815,"We might look at this later, just not a priority right now.",Low,Polite delay; not a priority now.
+RPL-0816,We have 34 people in the workspace already. What's the process to upgrade everyone and get SSO?,High,Seat count and upgrade/SSO request indicate buying intent.
+RPL-0817,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,Comparing tools and asking product questions.
+RPL-0818,Not this quarter. The free plan works for us for now.,Low,Polite no current interest; free plan sufficient.
+RPL-0819,Can Notion sync with Jira and Slack? That would decide it for us.,Medium,Product integration question that could decide purchase.
+RPL-0820,How much is the Education plan per student? I'm asking for our study group.,Low,Student study group price inquiry lacks purchase authority.
+RPL-0821,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer yet."
+RPL-0822,"We're ready to move the team over. What does Enterprise cost for 52 users, and can you send a contract?",High,Asks Enterprise cost for 52 users and requests a contract.
+RPL-0823,"Love the product, happy on free for the moment.",Low,"Polite, happy on free plan, no buying intent."
+RPL-0824,"Love the product, happy on free for the moment.",Low,"Polite, happy on free plan, no buying intent."
+RPL-0825,"We might look at this later, just not a priority right now.",Low,"Soft not-now, not a priority currently."
+RPL-0826,"Please send an order form for Business, roughly 70 seats. We'd like to start next month.",High,"Requests order form for Business, 70 seats, start next month."
+RPL-0827,We're trialling a few tools for our 121-person team. What makes Notion better for wikis?,Medium,"Evaluating tools, product question, no pricing request."
+RPL-0828,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer yet."
+RPL-0829,We're trialling a few tools for our 54-person team. What makes Notion better for wikis?,Medium,"Evaluating tools, product question, no pricing request."
+RPL-0830,We don't plan to pay for a docs tool. Please stop emailing.,None,"Direct rejection, asks to stop emailing."
+RPL-0831,I'm out of the office with limited email access and will reply when I'm back.,Auto-reply,"Out of office automatic message, no human answer yet."
+RPL-0832,"Good timing in theory, but we're mid-reorg. Maybe in a few months.",Low,"Polite delay, mid-reorg, revisit in a few months."
+RPL-0833,What's your data residency setup for EU customers?,Medium,Asks product/security question about EU data residency.
+RPL-0834,Please remove me from this list.,None,"Unsubscribe request, direct rejection."
+RPL-0835,"Does Business include SAML SSO and audit logs, or is that Enterprise only?",Medium,Asks product feature question about SSO and audit logs.
+RPL-0836,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing with Confluence, product questions, no quote."
+RPL-0837,Please remove me from this list.,None,"Unsubscribe request, direct rejection."
+RPL-0838,"Wrong person, sorry. Procurement decides on anything with more than 56 users.",Low,"Wrong person, no interest, cannot act."
+RPL-0839,How does Notion compare to Confluence for engineering docs? We're looking at both.,Medium,"Comparing with Confluence, product questions, no quote."
+RPL-0840,"Please send an order form for Business, roughly 56 seats. We'd like to start next month.",High,"Requests order form for Business, 56 seats, start next month."
