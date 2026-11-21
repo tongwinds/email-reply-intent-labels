@@ -1,0 +1,841 @@
+reply_id,account_id,domain_type,outbound_sender,outbound_campaign,reply_received_date,reply_subject,reply_body
+RPL-0001,ACC-11013,k12_school,Daniel Okafor,Workspace growth check-in,2026-08-31,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0002,ACC-11070,company,Ethan Brooks,Q3 team-plan outreach,2026-09-07,Re: Notion for your team,"Not interested, thanks."
+RPL-0003,ACC-10119,university,Sofia Marquez,Pricing page follow-up,2026-09-17,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0004,ACC-10573,company,Sofia Marquez,Workspace growth check-in,2026-09-29,Re: Your team's Notion workspace,"Wrong person, sorry. Procurement decides on anything with more than 131 users."
+RPL-0005,ACC-10593,company,Sofia Marquez,Pricing page follow-up,2026-07-31,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 39 users."
+RPL-0006,ACC-10538,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-07,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0007,ACC-10657,personal,Ethan Brooks,Pricing page follow-up,2026-08-19,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0008,ACC-10291,company,Ethan Brooks,Pricing page follow-up,2026-07-12,Re: Notion for your team,Please remove me from this list.
+RPL-0009,ACC-11108,personal,Sofia Marquez,Workspace growth check-in,2026-08-05,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0010,ACC-11074,company,Daniel Okafor,Workspace growth check-in,2026-08-15,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0011,ACC-10736,company,Sofia Marquez,Q3 team-plan outreach,2026-09-29,Re: Notion for your team,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0012,ACC-10954,company,Daniel Okafor,Q3 team-plan outreach,2026-09-12,Re: Your team's Notion workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0013,ACC-10150,company,Sofia Marquez,Workspace growth check-in,2026-07-05,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0014,ACC-11153,company,Sofia Marquez,Pricing page follow-up,2026-09-08,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0015,ACC-10123,company,Ethan Brooks,Q3 team-plan outreach,2026-08-29,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0016,ACC-10122,company,Daniel Okafor,Workspace growth check-in,2026-07-22,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0017,ACC-10947,k12_school,Ethan Brooks,Pricing page follow-up,2026-07-23,Re: Your team's Notion workspace,We're trialling a few tools for our 41-person team. What makes Notion better for wikis?
+RPL-0018,ACC-10818,university,Sofia Marquez,Pricing page follow-up,2026-08-28,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0019,ACC-10887,company,Ethan Brooks,Pricing page follow-up,2026-09-14,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0020,ACC-10373,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-07-29,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0021,ACC-10853,company,Ethan Brooks,Workspace growth check-in,2026-07-22,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0022,ACC-10312,company,Ethan Brooks,Q3 team-plan outreach,2026-07-05,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0023,ACC-10375,company,Ethan Brooks,Pricing page follow-up,2026-09-20,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0024,ACC-11184,personal,Sofia Marquez,Workspace growth check-in,2026-09-25,Re: Your team's Notion workspace,"We're ready to move the team over. What does Enterprise cost for 49 users, and can you send a contract?"
+RPL-0025,ACC-10144,personal,Sofia Marquez,Workspace growth check-in,2026-08-20,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0026,ACC-10027,university,Ethan Brooks,Workspace growth check-in,2026-09-21,Re: Quick question about your workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0027,ACC-11046,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-08-16,Re: Your team's Notion workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0028,ACC-10899,university,Sofia Marquez,Pricing page follow-up,2026-07-27,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0029,ACC-10350,company,Ethan Brooks,Q3 team-plan outreach,2026-09-18,Re: Your team's Notion workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0030,ACC-10324,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-31,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0031,ACC-10370,company,Sofia Marquez,Pricing page follow-up,2026-08-31,Re: Following up on Notion Business,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0032,ACC-11009,company,Sofia Marquez,Q3 team-plan outreach,2026-09-26,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0033,ACC-10752,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-07-29,Re: Your team's Notion workspace,What does it cost for students after we graduate? Just wondering for myself.
+RPL-0034,ACC-10010,company,Ethan Brooks,Workspace growth check-in,2026-07-28,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0035,ACC-10443,company,Sofia Marquez,Workspace growth check-in,2026-09-28,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0036,ACC-10542,company,Sofia Marquez,Workspace growth check-in,2026-07-28,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0037,ACC-10238,company,Ethan Brooks,Pricing page follow-up,2026-09-11,Re: Following up on Notion Business,Is there a volume discount above 108 seats? We're comparing your quote to Confluence's.
+RPL-0038,ACC-10816,university,Daniel Okafor,Pricing page follow-up,2026-07-26,Re: Notion for your team,I'm not the right person. Our IT lead handles software purchases.
+RPL-0039,ACC-10409,k12_school,Sofia Marquez,Workspace growth check-in,2026-08-18,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0040,ACC-10848,company,Sofia Marquez,Q3 team-plan outreach,2026-07-06,Re: Quick question about your workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0041,ACC-10911,company,Ethan Brooks,Workspace growth check-in,2026-09-03,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0042,ACC-10603,university,Daniel Okafor,Workspace growth check-in,2026-07-27,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0043,ACC-11081,k12_school,Sofia Marquez,Pricing page follow-up,2026-07-03,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0044,ACC-10219,company,Daniel Okafor,Workspace growth check-in,2026-08-19,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0045,ACC-10197,company,Daniel Okafor,Pricing page follow-up,2026-07-19,Re: Following up on Notion Business,Is there a way to import our Confluence spaces without losing page history?
+RPL-0046,ACC-10723,university,Ethan Brooks,Pricing page follow-up,2026-08-19,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0047,ACC-10123,company,Sofia Marquez,Workspace growth check-in,2026-09-22,Re: Quick question about your workspace,"We're ready to move the team over. What does Enterprise cost for 71 users, and can you send a contract?"
+RPL-0048,ACC-10461,company,Ethan Brooks,Workspace growth check-in,2026-09-22,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0049,ACC-10857,university,Ethan Brooks,Workspace growth check-in,2026-09-26,Re: Your team's Notion workspace,"Wrong person, sorry. Procurement decides on anything with more than 19 users."
+RPL-0050,ACC-11033,company,Sofia Marquez,Q3 team-plan outreach,2026-09-19,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0051,ACC-11082,company,Ethan Brooks,Pricing page follow-up,2026-07-28,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0052,ACC-10932,company,Daniel Okafor,Pricing page follow-up,2026-07-11,Re: Your team's Notion workspace,We're trialling a few tools for our 140-person team. What makes Notion better for wikis?
+RPL-0053,ACC-10076,university,Ethan Brooks,Pricing page follow-up,2026-07-04,Re: Following up on Notion Business,Do you offer free Plus for students? Our club has about 91 people on it.
+RPL-0054,ACC-10867,company,Sofia Marquez,Q3 team-plan outreach,2026-07-30,Re: Quick question about your workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0055,ACC-10716,company,Daniel Okafor,Q3 team-plan outreach,2026-07-01,Re: Quick question about your workspace,"Not interested, thanks."
+RPL-0056,ACC-10828,k12_school,Sofia Marquez,Workspace growth check-in,2026-07-17,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0057,ACC-10435,personal,Ethan Brooks,Q3 team-plan outreach,2026-09-14,Re: Your team's Notion workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0058,ACC-10640,company,Daniel Okafor,Q3 team-plan outreach,2026-08-01,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0059,ACC-10350,university,Sofia Marquez,Workspace growth check-in,2026-07-17,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0060,ACC-10661,company,Sofia Marquez,Pricing page follow-up,2026-09-20,Re: Your team's Notion workspace,We're trialling a few tools for our 36-person team. What makes Notion better for wikis?
+RPL-0061,ACC-10491,personal,Sofia Marquez,Workspace growth check-in,2026-07-12,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0062,ACC-10333,university,Ethan Brooks,Pricing page follow-up,2026-08-01,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0063,ACC-11125,company,Ethan Brooks,Q3 team-plan outreach,2026-09-28,Re: Following up on Notion Business,"Please send an order form for Business, roughly 76 seats. We'd like to start next month."
+RPL-0064,ACC-10555,company,Ethan Brooks,Q3 team-plan outreach,2026-09-29,Re: Following up on Notion Business,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0065,ACC-10814,company,Sofia Marquez,Q3 team-plan outreach,2026-09-24,Re: Your team's Notion workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0066,ACC-10309,company,Daniel Okafor,Pricing page follow-up,2026-07-26,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0067,ACC-10085,company,Sofia Marquez,Workspace growth check-in,2026-07-21,Re: Your team's Notion workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0068,ACC-11033,company,Ethan Brooks,Pricing page follow-up,2026-09-20,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0069,ACC-10934,company,Sofia Marquez,Pricing page follow-up,2026-08-18,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0070,ACC-10562,company,Ethan Brooks,Pricing page follow-up,2026-08-10,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0071,ACC-11150,company,Ethan Brooks,Q3 team-plan outreach,2026-08-30,Re: Following up on Notion Business,Can you send pricing for about 93 seats on Business? We'd want annual billing.
+RPL-0072,ACC-11016,university,Daniel Okafor,Q3 team-plan outreach,2026-08-16,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0073,ACC-10745,personal,Sofia Marquez,Workspace growth check-in,2026-08-06,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0074,ACC-10521,company,Ethan Brooks,Q3 team-plan outreach,2026-09-29,Re: Notion for your team,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0075,ACC-10380,personal,Sofia Marquez,Workspace growth check-in,2026-08-19,Re: Notion for your team,Please remove me from this list.
+RPL-0076,ACC-10528,company,Sofia Marquez,Q3 team-plan outreach,2026-07-24,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0077,ACC-10892,company,Daniel Okafor,Workspace growth check-in,2026-08-15,Re: Following up on Notion Business,We have 36 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0078,ACC-10066,company,Sofia Marquez,Q3 team-plan outreach,2026-07-06,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0079,ACC-10420,university,Ethan Brooks,Workspace growth check-in,2026-08-20,Re: Notion for your team,Unsubscribe.
+RPL-0080,ACC-10232,company,Ethan Brooks,Workspace growth check-in,2026-08-02,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0081,ACC-10054,company,Daniel Okafor,Q3 team-plan outreach,2026-08-08,Re: Quick question about your workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0082,ACC-11032,company,Sofia Marquez,Pricing page follow-up,2026-07-02,Re: Following up on Notion Business,We're trialling a few tools for our 118-person team. What makes Notion better for wikis?
+RPL-0083,ACC-10870,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-31,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0084,ACC-10497,company,Ethan Brooks,Workspace growth check-in,2026-07-06,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0085,ACC-10589,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-08-06,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0086,ACC-10357,company,Sofia Marquez,Q3 team-plan outreach,2026-09-17,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0087,ACC-10880,company,Sofia Marquez,Pricing page follow-up,2026-08-24,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0088,ACC-10462,company,Ethan Brooks,Workspace growth check-in,2026-09-23,Re: Quick question about your workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0089,ACC-10888,company,Sofia Marquez,Pricing page follow-up,2026-09-13,Re: Notion for your team,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0090,ACC-10972,company,Daniel Okafor,Q3 team-plan outreach,2026-07-23,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0091,ACC-10918,company,Ethan Brooks,Workspace growth check-in,2026-08-19,Re: Quick question about your workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0092,ACC-10710,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-28,Re: Quick question about your workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0093,ACC-11150,university,Ethan Brooks,Q3 team-plan outreach,2026-07-11,Auto: I'm away until next week,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0094,ACC-10726,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-08-01,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0095,ACC-10802,company,Sofia Marquez,Pricing page follow-up,2026-09-19,Re: Notion for your team,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0096,ACC-10027,company,Ethan Brooks,Q3 team-plan outreach,2026-07-08,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0097,ACC-10508,company,Ethan Brooks,Workspace growth check-in,2026-08-22,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0098,ACC-10492,company,Ethan Brooks,Workspace growth check-in,2026-09-11,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0099,ACC-11145,company,Ethan Brooks,Workspace growth check-in,2026-07-19,Re: Your team's Notion workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0100,ACC-10286,company,Sofia Marquez,Workspace growth check-in,2026-09-26,Re: Notion for your team,I'm not the right person. Our IT lead handles software purchases.
+RPL-0101,ACC-10513,university,Ethan Brooks,Q3 team-plan outreach,2026-08-18,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0102,ACC-11119,company,Ethan Brooks,Pricing page follow-up,2026-07-21,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0103,ACC-10325,personal,Sofia Marquez,Pricing page follow-up,2026-07-05,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0104,ACC-10047,university,Sofia Marquez,Workspace growth check-in,2026-07-05,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0105,ACC-10817,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-02,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0106,ACC-10680,k12_school,Ethan Brooks,Pricing page follow-up,2026-08-15,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0107,ACC-11079,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-08-14,Re: Quick question about your workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0108,ACC-10751,company,Sofia Marquez,Workspace growth check-in,2026-09-11,Re: Your team's Notion workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0109,ACC-10152,personal,Daniel Okafor,Workspace growth check-in,2026-09-17,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0110,ACC-10659,company,Sofia Marquez,Pricing page follow-up,2026-09-13,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0111,ACC-10759,university,Ethan Brooks,Workspace growth check-in,2026-09-30,Re: Quick question about your workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0112,ACC-10646,personal,Ethan Brooks,Workspace growth check-in,2026-09-04,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0113,ACC-10842,company,Ethan Brooks,Pricing page follow-up,2026-07-30,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0114,ACC-10635,university,Ethan Brooks,Workspace growth check-in,2026-08-01,Re: Notion for your team,"Not interested, thanks."
+RPL-0115,ACC-10223,company,Ethan Brooks,Pricing page follow-up,2026-09-29,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0116,ACC-10198,personal,Sofia Marquez,Workspace growth check-in,2026-08-15,Out of Office: Re: Notion for your team,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0117,ACC-10110,company,Sofia Marquez,Pricing page follow-up,2026-09-20,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0118,ACC-11056,company,Ethan Brooks,Q3 team-plan outreach,2026-07-04,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0119,ACC-11105,company,Sofia Marquez,Q3 team-plan outreach,2026-07-15,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0120,ACC-10378,company,Ethan Brooks,Q3 team-plan outreach,2026-09-24,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0121,ACC-10486,company,Daniel Okafor,Workspace growth check-in,2026-09-30,Re: Your team's Notion workspace,"Wrong person, sorry. Procurement decides on anything with more than 23 users."
+RPL-0122,ACC-10053,personal,Sofia Marquez,Pricing page follow-up,2026-08-03,Re: Notion for your team,"Not interested, thanks."
+RPL-0123,ACC-10394,university,Daniel Okafor,Workspace growth check-in,2026-08-27,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0124,ACC-10759,university,Daniel Okafor,Q3 team-plan outreach,2026-09-21,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0125,ACC-10287,company,Sofia Marquez,Workspace growth check-in,2026-07-08,Re: Your team's Notion workspace,"Wrong person, sorry. Procurement decides on anything with more than 87 users."
+RPL-0126,ACC-10413,company,Sofia Marquez,Q3 team-plan outreach,2026-08-16,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0127,ACC-10381,company,Ethan Brooks,Q3 team-plan outreach,2026-09-21,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0128,ACC-10374,personal,Sofia Marquez,Workspace growth check-in,2026-07-10,Re: Following up on Notion Business,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0129,ACC-10529,university,Ethan Brooks,Q3 team-plan outreach,2026-08-03,Re: Notion for your team,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0130,ACC-10078,company,Ethan Brooks,Pricing page follow-up,2026-07-02,Re: Quick question about your workspace,We're trialling a few tools for our 41-person team. What makes Notion better for wikis?
+RPL-0131,ACC-10949,company,Ethan Brooks,Workspace growth check-in,2026-08-03,Re: Your team's Notion workspace,"Love the product, happy on free for the moment."
+RPL-0132,ACC-10620,company,Sofia Marquez,Workspace growth check-in,2026-09-19,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0133,ACC-10002,company,Sofia Marquez,Workspace growth check-in,2026-09-20,Re: Notion for your team,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0134,ACC-10395,company,Sofia Marquez,Q3 team-plan outreach,2026-08-06,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0135,ACC-11160,company,Daniel Okafor,Q3 team-plan outreach,2026-09-11,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0136,ACC-11116,university,Sofia Marquez,Q3 team-plan outreach,2026-08-11,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0137,ACC-10058,company,Ethan Brooks,Workspace growth check-in,2026-08-23,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0138,ACC-11097,university,Sofia Marquez,Pricing page follow-up,2026-07-17,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0139,ACC-10791,company,Sofia Marquez,Q3 team-plan outreach,2026-09-21,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0140,ACC-11105,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-09-17,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0141,ACC-10332,personal,Ethan Brooks,Workspace growth check-in,2026-07-19,Re: Following up on Notion Business,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0142,ACC-10922,company,Ethan Brooks,Q3 team-plan outreach,2026-08-30,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0143,ACC-10709,university,Sofia Marquez,Q3 team-plan outreach,2026-08-30,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0144,ACC-11053,company,Ethan Brooks,Q3 team-plan outreach,2026-08-25,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0145,ACC-10493,university,Ethan Brooks,Q3 team-plan outreach,2026-08-25,Re: Following up on Notion Business,We're trialling a few tools for our 41-person team. What makes Notion better for wikis?
+RPL-0146,ACC-10092,university,Sofia Marquez,Q3 team-plan outreach,2026-07-30,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0147,ACC-10164,company,Ethan Brooks,Q3 team-plan outreach,2026-07-16,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0148,ACC-11079,university,Sofia Marquez,Q3 team-plan outreach,2026-09-10,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0149,ACC-11057,company,Daniel Okafor,Workspace growth check-in,2026-07-13,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0150,ACC-10007,university,Ethan Brooks,Workspace growth check-in,2026-07-15,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0151,ACC-10879,company,Daniel Okafor,Workspace growth check-in,2026-08-31,Re: Quick question about your workspace,Can you send pricing for about 102 seats on Business? We'd want annual billing.
+RPL-0152,ACC-10811,company,Ethan Brooks,Workspace growth check-in,2026-09-10,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0153,ACC-11105,company,Daniel Okafor,Pricing page follow-up,2026-09-23,Re: Notion for your team,We're trialling a few tools for our 77-person team. What makes Notion better for wikis?
+RPL-0154,ACC-10850,company,Sofia Marquez,Pricing page follow-up,2026-07-07,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0155,ACC-10773,company,Ethan Brooks,Q3 team-plan outreach,2026-09-03,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0156,ACC-10774,company,Sofia Marquez,Pricing page follow-up,2026-07-19,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0157,ACC-11155,company,Sofia Marquez,Q3 team-plan outreach,2026-07-15,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0158,ACC-10432,company,Sofia Marquez,Pricing page follow-up,2026-07-01,Re: Your team's Notion workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0159,ACC-10670,university,Sofia Marquez,Workspace growth check-in,2026-07-13,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0160,ACC-10273,company,Daniel Okafor,Workspace growth check-in,2026-07-12,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0161,ACC-10689,university,Sofia Marquez,Q3 team-plan outreach,2026-07-26,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0162,ACC-10340,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-09-29,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0163,ACC-11099,company,Ethan Brooks,Q3 team-plan outreach,2026-07-14,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0164,ACC-10146,company,Daniel Okafor,Pricing page follow-up,2026-07-15,Re: Following up on Notion Business,We're trialling a few tools for our 30-person team. What makes Notion better for wikis?
+RPL-0165,ACC-10558,personal,Ethan Brooks,Pricing page follow-up,2026-09-03,Re: Quick question about your workspace,Unsubscribe.
+RPL-0166,ACC-10280,company,Sofia Marquez,Workspace growth check-in,2026-07-07,Re: Your team's Notion workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0167,ACC-10113,university,Ethan Brooks,Q3 team-plan outreach,2026-07-06,Re: Your team's Notion workspace,We're trialling a few tools for our 24-person team. What makes Notion better for wikis?
+RPL-0168,ACC-10642,company,Sofia Marquez,Workspace growth check-in,2026-07-26,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0169,ACC-10081,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-27,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0170,ACC-10739,company,Sofia Marquez,Pricing page follow-up,2026-07-18,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0171,ACC-11134,company,Ethan Brooks,Q3 team-plan outreach,2026-09-12,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0172,ACC-10506,company,Ethan Brooks,Pricing page follow-up,2026-07-23,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0173,ACC-10408,company,Daniel Okafor,Workspace growth check-in,2026-08-28,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0174,ACC-10577,company,Ethan Brooks,Workspace growth check-in,2026-08-27,Re: Notion for your team,We have 90 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0175,ACC-10290,company,Ethan Brooks,Pricing page follow-up,2026-07-20,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0176,ACC-10361,personal,Daniel Okafor,Workspace growth check-in,2026-08-29,Re: Following up on Notion Business,Is there a volume discount above 22 seats? We're comparing your quote to Confluence's.
+RPL-0177,ACC-10226,company,Daniel Okafor,Workspace growth check-in,2026-09-26,Re: Notion for your team,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0178,ACC-10221,company,Ethan Brooks,Workspace growth check-in,2026-09-15,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0179,ACC-10292,company,Sofia Marquez,Pricing page follow-up,2026-09-25,Re: Notion for your team,Is there a volume discount above 26 seats? We're comparing your quote to Confluence's.
+RPL-0180,ACC-10822,personal,Ethan Brooks,Pricing page follow-up,2026-07-25,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0181,ACC-10669,university,Sofia Marquez,Workspace growth check-in,2026-07-09,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0182,ACC-10905,personal,Ethan Brooks,Workspace growth check-in,2026-09-29,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0183,ACC-10488,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-07-01,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 69 users."
+RPL-0184,ACC-10772,company,Ethan Brooks,Workspace growth check-in,2026-07-02,Re: Notion for your team,We have 64 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0185,ACC-10741,company,Sofia Marquez,Workspace growth check-in,2026-07-04,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0186,ACC-10559,company,Sofia Marquez,Q3 team-plan outreach,2026-09-03,Re: Quick question about your workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0187,ACC-10989,personal,Ethan Brooks,Pricing page follow-up,2026-09-06,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0188,ACC-10384,company,Sofia Marquez,Q3 team-plan outreach,2026-07-04,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0189,ACC-10298,company,Ethan Brooks,Pricing page follow-up,2026-09-08,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0190,ACC-10619,company,Daniel Okafor,Q3 team-plan outreach,2026-08-14,Re: Your team's Notion workspace,"Please send an order form for Business, roughly 58 seats. We'd like to start next month."
+RPL-0191,ACC-10674,company,Daniel Okafor,Q3 team-plan outreach,2026-07-05,Re: Notion for your team,Our finance lead needs a quote for 17 seats before month end. Who do I talk to?
+RPL-0192,ACC-10117,personal,Sofia Marquez,Pricing page follow-up,2026-08-26,Auto: I'm away until next week,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0193,ACC-10324,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-17,Re: Quick question about your workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0194,ACC-10798,company,Ethan Brooks,Workspace growth check-in,2026-07-05,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0195,ACC-10018,company,Ethan Brooks,Workspace growth check-in,2026-07-12,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0196,ACC-10639,company,Sofia Marquez,Q3 team-plan outreach,2026-09-19,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0197,ACC-10839,company,Sofia Marquez,Workspace growth check-in,2026-08-10,Re: Quick question about your workspace,"Wrong person, sorry. Procurement decides on anything with more than 9 users."
+RPL-0198,ACC-10785,company,Ethan Brooks,Q3 team-plan outreach,2026-09-15,Re: Your team's Notion workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0199,ACC-10503,company,Ethan Brooks,Pricing page follow-up,2026-07-16,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0200,ACC-10204,company,Sofia Marquez,Q3 team-plan outreach,2026-07-24,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0201,ACC-10019,company,Sofia Marquez,Pricing page follow-up,2026-08-30,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0202,ACC-10851,company,Ethan Brooks,Q3 team-plan outreach,2026-08-02,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0203,ACC-10280,personal,Ethan Brooks,Q3 team-plan outreach,2026-09-13,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0204,ACC-10298,university,Sofia Marquez,Pricing page follow-up,2026-07-26,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0205,ACC-10202,company,Sofia Marquez,Q3 team-plan outreach,2026-07-02,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0206,ACC-11154,university,Ethan Brooks,Q3 team-plan outreach,2026-08-20,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0207,ACC-10093,company,Ethan Brooks,Q3 team-plan outreach,2026-07-09,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0208,ACC-10541,company,Ethan Brooks,Q3 team-plan outreach,2026-08-15,Re: Quick question about your workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0209,ACC-11156,company,Daniel Okafor,Q3 team-plan outreach,2026-08-20,Re: Quick question about your workspace,Unsubscribe.
+RPL-0210,ACC-10362,company,Daniel Okafor,Q3 team-plan outreach,2026-09-20,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0211,ACC-10695,university,Sofia Marquez,Q3 team-plan outreach,2026-09-04,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 95 users."
+RPL-0212,ACC-10169,personal,Daniel Okafor,Pricing page follow-up,2026-07-25,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0213,ACC-10830,company,Ethan Brooks,Q3 team-plan outreach,2026-07-28,Re: Notion for your team,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0214,ACC-10209,company,Ethan Brooks,Q3 team-plan outreach,2026-07-22,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0215,ACC-10472,university,Ethan Brooks,Q3 team-plan outreach,2026-07-04,Re: Notion for your team,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.
+RPL-0216,ACC-10713,company,Sofia Marquez,Q3 team-plan outreach,2026-07-23,Auto: I'm away until next week,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0217,ACC-10734,company,Daniel Okafor,Q3 team-plan outreach,2026-09-16,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0218,ACC-10603,company,Daniel Okafor,Q3 team-plan outreach,2026-07-08,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0219,ACC-10380,company,Sofia Marquez,Pricing page follow-up,2026-08-28,Re: Notion for your team,I'm not the right person. Our IT lead handles software purchases.
+RPL-0220,ACC-10615,company,Daniel Okafor,Workspace growth check-in,2026-09-26,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0221,ACC-10928,university,Sofia Marquez,Workspace growth check-in,2026-08-03,Re: Quick question about your workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0222,ACC-10763,company,Daniel Okafor,Workspace growth check-in,2026-08-22,Auto: I'm away until next week,I'm travelling this week and will get back to you as soon as I can.
+RPL-0223,ACC-11063,university,Ethan Brooks,Workspace growth check-in,2026-07-29,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0224,ACC-10495,company,Ethan Brooks,Q3 team-plan outreach,2026-08-21,Re: Your team's Notion workspace,Is there a volume discount above 100 seats? We're comparing your quote to Confluence's.
+RPL-0225,ACC-11004,company,Ethan Brooks,Q3 team-plan outreach,2026-07-12,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0226,ACC-10322,company,Sofia Marquez,Workspace growth check-in,2026-07-09,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0227,ACC-10342,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-08-11,Automatic reply: Out of office,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0228,ACC-10694,company,Ethan Brooks,Pricing page follow-up,2026-09-06,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0229,ACC-10379,university,Ethan Brooks,Workspace growth check-in,2026-07-19,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0230,ACC-10377,company,Sofia Marquez,Q3 team-plan outreach,2026-08-04,Re: Quick question about your workspace,"Not interested, thanks."
+RPL-0231,ACC-11126,company,Daniel Okafor,Pricing page follow-up,2026-08-14,Re: Notion for your team,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0232,ACC-10046,university,Sofia Marquez,Pricing page follow-up,2026-08-30,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0233,ACC-10523,company,Sofia Marquez,Q3 team-plan outreach,2026-08-16,Re: Notion for your team,Our finance lead needs a quote for 61 seats before month end. Who do I talk to?
+RPL-0234,ACC-10324,university,Daniel Okafor,Workspace growth check-in,2026-09-22,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0235,ACC-10871,university,Sofia Marquez,Q3 team-plan outreach,2026-08-31,Re: Notion for your team,Unsubscribe.
+RPL-0236,ACC-10835,company,Ethan Brooks,Workspace growth check-in,2026-09-24,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0237,ACC-10531,personal,Ethan Brooks,Pricing page follow-up,2026-08-20,Re: Notion for your team,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0238,ACC-10458,company,Daniel Okafor,Workspace growth check-in,2026-08-28,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0239,ACC-10406,company,Ethan Brooks,Pricing page follow-up,2026-09-29,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0240,ACC-10576,company,Sofia Marquez,Pricing page follow-up,2026-07-27,Re: Quick question about your workspace,Unsubscribe.
+RPL-0241,ACC-10329,company,Sofia Marquez,Workspace growth check-in,2026-09-16,Re: Notion for your team,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0242,ACC-10551,company,Sofia Marquez,Pricing page follow-up,2026-09-28,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0243,ACC-11036,personal,Sofia Marquez,Workspace growth check-in,2026-08-26,Re: Quick question about your workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0244,ACC-11079,company,Sofia Marquez,Workspace growth check-in,2026-09-19,Re: Your team's Notion workspace,"Please send an order form for Business, roughly 140 seats. We'd like to start next month."
+RPL-0245,ACC-11188,personal,Daniel Okafor,Q3 team-plan outreach,2026-07-06,Automatic reply: Out of office,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0246,ACC-10111,university,Daniel Okafor,Pricing page follow-up,2026-07-26,Re: Quick question about your workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0247,ACC-10191,company,Sofia Marquez,Pricing page follow-up,2026-08-08,Re: Notion for your team,Is there a volume discount above 29 seats? We're comparing your quote to Confluence's.
+RPL-0248,ACC-10740,company,Daniel Okafor,Q3 team-plan outreach,2026-09-14,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0249,ACC-10646,university,Sofia Marquez,Workspace growth check-in,2026-09-18,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0250,ACC-10884,personal,Ethan Brooks,Pricing page follow-up,2026-07-19,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0251,ACC-10050,personal,Ethan Brooks,Pricing page follow-up,2026-09-22,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0252,ACC-10849,company,Daniel Okafor,Q3 team-plan outreach,2026-09-09,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0253,ACC-10211,personal,Daniel Okafor,Workspace growth check-in,2026-08-28,Re: Notion for your team,We're trialling a few tools for our 128-person team. What makes Notion better for wikis?
+RPL-0254,ACC-10315,university,Ethan Brooks,Q3 team-plan outreach,2026-09-04,Re: Your team's Notion workspace,Do you offer free Plus for students? Our club has about 24 people on it.
+RPL-0255,ACC-11000,university,Ethan Brooks,Pricing page follow-up,2026-07-20,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0256,ACC-10740,company,Sofia Marquez,Pricing page follow-up,2026-09-03,Out of Office: Re: Notion for your team,I'm travelling this week and will get back to you as soon as I can.
+RPL-0257,ACC-10900,company,Sofia Marquez,Q3 team-plan outreach,2026-09-09,Re: Notion for your team,"Please send an order form for Business, roughly 29 seats. We'd like to start next month."
+RPL-0258,ACC-10239,company,Sofia Marquez,Q3 team-plan outreach,2026-09-12,Re: Following up on Notion Business,"Please send an order form for Business, roughly 133 seats. We'd like to start next month."
+RPL-0259,ACC-10474,university,Ethan Brooks,Q3 team-plan outreach,2026-07-27,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0260,ACC-10529,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-09-22,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0261,ACC-10396,personal,Ethan Brooks,Pricing page follow-up,2026-09-22,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0262,ACC-11034,personal,Sofia Marquez,Pricing page follow-up,2026-09-20,Re: Quick question about your workspace,Is there a volume discount above 30 seats? We're comparing your quote to Confluence's.
+RPL-0263,ACC-10813,company,Sofia Marquez,Workspace growth check-in,2026-07-25,Re: Notion for your team,"Not interested, thanks."
+RPL-0264,ACC-10626,university,Sofia Marquez,Q3 team-plan outreach,2026-09-19,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0265,ACC-10226,company,Ethan Brooks,Workspace growth check-in,2026-07-15,Re: Notion for your team,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0266,ACC-10530,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-16,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0267,ACC-10594,company,Sofia Marquez,Workspace growth check-in,2026-09-13,Re: Quick question about your workspace,"Wrong person, sorry. Procurement decides on anything with more than 87 users."
+RPL-0268,ACC-10952,company,Daniel Okafor,Workspace growth check-in,2026-07-21,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0269,ACC-10017,university,Daniel Okafor,Workspace growth check-in,2026-09-14,Re: Notion for your team,I'm not the right person. Our IT lead handles software purchases.
+RPL-0270,ACC-10128,company,Ethan Brooks,Workspace growth check-in,2026-09-29,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0271,ACC-10993,company,Sofia Marquez,Q3 team-plan outreach,2026-08-07,Re: Notion for your team,Please remove me from this list.
+RPL-0272,ACC-10932,company,Daniel Okafor,Q3 team-plan outreach,2026-08-02,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0273,ACC-10624,university,Daniel Okafor,Workspace growth check-in,2026-08-08,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0274,ACC-10779,company,Sofia Marquez,Q3 team-plan outreach,2026-08-27,Re: Your team's Notion workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0275,ACC-11159,company,Ethan Brooks,Pricing page follow-up,2026-09-17,Re: Notion for your team,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0276,ACC-11005,company,Ethan Brooks,Pricing page follow-up,2026-09-04,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0277,ACC-10731,personal,Sofia Marquez,Workspace growth check-in,2026-07-14,Re: Your team's Notion workspace,We have 23 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0278,ACC-10373,company,Ethan Brooks,Q3 team-plan outreach,2026-08-30,Re: Following up on Notion Business,"We're ready to move the team over. What does Enterprise cost for 99 users, and can you send a contract?"
+RPL-0279,ACC-10825,company,Sofia Marquez,Q3 team-plan outreach,2026-08-27,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0280,ACC-10020,university,Sofia Marquez,Q3 team-plan outreach,2026-08-07,Re: Notion for your team,"Not interested, thanks."
+RPL-0281,ACC-10335,company,Sofia Marquez,Q3 team-plan outreach,2026-08-13,Re: Following up on Notion Business,"We're ready to move the team over. What does Enterprise cost for 82 users, and can you send a contract?"
+RPL-0282,ACC-10292,company,Sofia Marquez,Q3 team-plan outreach,2026-08-12,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0283,ACC-10654,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-15,Re: Notion for your team,Unsubscribe.
+RPL-0284,ACC-10200,company,Ethan Brooks,Pricing page follow-up,2026-09-10,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0285,ACC-11153,company,Sofia Marquez,Q3 team-plan outreach,2026-08-29,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0286,ACC-10511,company,Sofia Marquez,Pricing page follow-up,2026-08-30,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0287,ACC-10862,company,Sofia Marquez,Pricing page follow-up,2026-09-21,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0288,ACC-10570,university,Ethan Brooks,Workspace growth check-in,2026-07-24,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0289,ACC-10467,company,Ethan Brooks,Workspace growth check-in,2026-08-26,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0290,ACC-10238,company,Ethan Brooks,Pricing page follow-up,2026-09-09,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0291,ACC-10335,company,Sofia Marquez,Workspace growth check-in,2026-07-26,Re: Quick question about your workspace,Unsubscribe.
+RPL-0292,ACC-10539,company,Ethan Brooks,Q3 team-plan outreach,2026-09-21,Re: Notion for your team,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0293,ACC-10582,company,Ethan Brooks,Q3 team-plan outreach,2026-09-25,Re: Following up on Notion Business,Unsubscribe.
+RPL-0294,ACC-10857,company,Daniel Okafor,Pricing page follow-up,2026-07-22,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0295,ACC-10510,company,Sofia Marquez,Q3 team-plan outreach,2026-08-13,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0296,ACC-10986,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-23,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0297,ACC-10625,university,Sofia Marquez,Pricing page follow-up,2026-07-21,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0298,ACC-11075,university,Ethan Brooks,Q3 team-plan outreach,2026-08-20,Re: Your team's Notion workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0299,ACC-10984,university,Ethan Brooks,Q3 team-plan outreach,2026-08-28,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0300,ACC-11113,personal,Daniel Okafor,Q3 team-plan outreach,2026-08-07,Re: Quick question about your workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0301,ACC-10002,company,Ethan Brooks,Pricing page follow-up,2026-07-03,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0302,ACC-10123,company,Sofia Marquez,Pricing page follow-up,2026-07-11,Re: Your team's Notion workspace,We're trialling a few tools for our 80-person team. What makes Notion better for wikis?
+RPL-0303,ACC-10861,personal,Sofia Marquez,Workspace growth check-in,2026-08-24,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0304,ACC-10752,university,Ethan Brooks,Q3 team-plan outreach,2026-08-17,Re: Quick question about your workspace,What does it cost for students after we graduate? Just wondering for myself.
+RPL-0305,ACC-11091,company,Daniel Okafor,Workspace growth check-in,2026-08-06,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0306,ACC-10449,company,Sofia Marquez,Workspace growth check-in,2026-07-24,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0307,ACC-10882,company,Sofia Marquez,Workspace growth check-in,2026-08-14,Re: Quick question about your workspace,"We're ready to move the team over. What does Enterprise cost for 32 users, and can you send a contract?"
+RPL-0308,ACC-11182,company,Sofia Marquez,Pricing page follow-up,2026-09-18,Re: Notion for your team,"Not interested, thanks."
+RPL-0309,ACC-10959,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-12,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0310,ACC-10041,company,Sofia Marquez,Workspace growth check-in,2026-08-04,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0311,ACC-10779,university,Daniel Okafor,Workspace growth check-in,2026-09-29,Re: Notion for your team,"Not interested, thanks."
+RPL-0312,ACC-10444,company,Ethan Brooks,Pricing page follow-up,2026-09-27,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0313,ACC-10007,company,Ethan Brooks,Q3 team-plan outreach,2026-07-05,Re: Notion for your team,We're trialling a few tools for our 123-person team. What makes Notion better for wikis?
+RPL-0314,ACC-11051,company,Sofia Marquez,Q3 team-plan outreach,2026-07-03,Auto: I'm away until next week,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0315,ACC-10224,university,Daniel Okafor,Workspace growth check-in,2026-09-19,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0316,ACC-10019,company,Sofia Marquez,Pricing page follow-up,2026-08-18,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0317,ACC-10865,company,Ethan Brooks,Q3 team-plan outreach,2026-07-24,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0318,ACC-10301,company,Ethan Brooks,Pricing page follow-up,2026-08-29,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0319,ACC-10727,company,Sofia Marquez,Workspace growth check-in,2026-09-04,Re: Notion for your team,Unsubscribe.
+RPL-0320,ACC-10327,university,Sofia Marquez,Workspace growth check-in,2026-09-30,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0321,ACC-10592,personal,Ethan Brooks,Workspace growth check-in,2026-09-29,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0322,ACC-10223,company,Sofia Marquez,Q3 team-plan outreach,2026-09-16,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0323,ACC-10155,company,Sofia Marquez,Workspace growth check-in,2026-08-02,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0324,ACC-10852,university,Sofia Marquez,Pricing page follow-up,2026-09-15,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0325,ACC-11073,company,Sofia Marquez,Pricing page follow-up,2026-09-12,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0326,ACC-10755,company,Sofia Marquez,Pricing page follow-up,2026-08-17,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0327,ACC-10125,university,Daniel Okafor,Q3 team-plan outreach,2026-07-01,Re: Following up on Notion Business,Unsubscribe.
+RPL-0328,ACC-10486,company,Ethan Brooks,Pricing page follow-up,2026-08-18,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0329,ACC-10972,university,Sofia Marquez,Q3 team-plan outreach,2026-08-07,Re: Following up on Notion Business,Do you offer free Plus for students? Our club has about 25 people on it.
+RPL-0330,ACC-10296,personal,Ethan Brooks,Q3 team-plan outreach,2026-09-14,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0331,ACC-10382,university,Ethan Brooks,Workspace growth check-in,2026-07-15,Auto: I'm away until next week,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0332,ACC-10911,company,Ethan Brooks,Q3 team-plan outreach,2026-07-24,Re: Notion for your team,"Please send an order form for Business, roughly 96 seats. We'd like to start next month."
+RPL-0333,ACC-10192,company,Ethan Brooks,Q3 team-plan outreach,2026-07-12,Re: Following up on Notion Business,We're trialling a few tools for our 61-person team. What makes Notion better for wikis?
+RPL-0334,ACC-10582,university,Ethan Brooks,Workspace growth check-in,2026-09-16,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0335,ACC-10099,company,Daniel Okafor,Workspace growth check-in,2026-09-06,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0336,ACC-10321,university,Daniel Okafor,Q3 team-plan outreach,2026-07-21,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0337,ACC-10765,university,Daniel Okafor,Q3 team-plan outreach,2026-08-24,Re: Quick question about your workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0338,ACC-10971,company,Sofia Marquez,Workspace growth check-in,2026-08-26,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0339,ACC-10434,company,Ethan Brooks,Pricing page follow-up,2026-08-13,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0340,ACC-11183,university,Daniel Okafor,Q3 team-plan outreach,2026-09-03,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0341,ACC-10528,company,Ethan Brooks,Pricing page follow-up,2026-09-23,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0342,ACC-10382,company,Ethan Brooks,Workspace growth check-in,2026-07-04,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0343,ACC-10003,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-07-25,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0344,ACC-10058,university,Sofia Marquez,Pricing page follow-up,2026-09-06,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0345,ACC-10253,company,Ethan Brooks,Q3 team-plan outreach,2026-07-20,Re: Notion for your team,Can you send pricing for about 28 seats on Business? We'd want annual billing.
+RPL-0346,ACC-10695,personal,Sofia Marquez,Q3 team-plan outreach,2026-08-27,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0347,ACC-10497,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-09-24,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0348,ACC-11190,personal,Ethan Brooks,Workspace growth check-in,2026-08-21,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0349,ACC-10888,personal,Daniel Okafor,Pricing page follow-up,2026-07-25,Re: Your team's Notion workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0350,ACC-11118,company,Ethan Brooks,Q3 team-plan outreach,2026-07-24,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0351,ACC-10620,university,Ethan Brooks,Q3 team-plan outreach,2026-07-27,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0352,ACC-10121,company,Sofia Marquez,Q3 team-plan outreach,2026-09-15,Re: Following up on Notion Business,"Wrong person, sorry. Procurement decides on anything with more than 40 users."
+RPL-0353,ACC-10345,company,Sofia Marquez,Workspace growth check-in,2026-07-23,Re: Quick question about your workspace,"Not interested, thanks."
+RPL-0354,ACC-10951,company,Sofia Marquez,Q3 team-plan outreach,2026-07-02,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0355,ACC-10413,k12_school,Sofia Marquez,Pricing page follow-up,2026-09-02,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0356,ACC-10461,company,Sofia Marquez,Pricing page follow-up,2026-09-18,Re: Notion for your team,"We're ready to move the team over. What does Enterprise cost for 23 users, and can you send a contract?"
+RPL-0357,ACC-10882,university,Sofia Marquez,Q3 team-plan outreach,2026-08-04,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0358,ACC-10036,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-08-08,Re: Notion for your team,We're trialling a few tools for our 53-person team. What makes Notion better for wikis?
+RPL-0359,ACC-10961,company,Sofia Marquez,Workspace growth check-in,2026-09-12,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0360,ACC-10506,personal,Sofia Marquez,Pricing page follow-up,2026-08-13,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0361,ACC-11120,personal,Sofia Marquez,Q3 team-plan outreach,2026-09-30,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0362,ACC-10952,company,Daniel Okafor,Workspace growth check-in,2026-07-05,Re: Quick question about your workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0363,ACC-10535,personal,Ethan Brooks,Pricing page follow-up,2026-08-20,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0364,ACC-11145,company,Sofia Marquez,Workspace growth check-in,2026-07-16,Re: Quick question about your workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0365,ACC-10454,k12_school,Sofia Marquez,Pricing page follow-up,2026-09-24,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0366,ACC-11112,company,Sofia Marquez,Q3 team-plan outreach,2026-08-27,Re: Your team's Notion workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0367,ACC-10204,university,Daniel Okafor,Workspace growth check-in,2026-07-28,Re: Your team's Notion workspace,What does it cost for students after we graduate? Just wondering for myself.
+RPL-0368,ACC-10089,company,Sofia Marquez,Q3 team-plan outreach,2026-09-11,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0369,ACC-10448,personal,Daniel Okafor,Workspace growth check-in,2026-09-13,Re: Quick question about your workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0370,ACC-10689,company,Sofia Marquez,Q3 team-plan outreach,2026-09-11,Re: Notion for your team,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0371,ACC-10047,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-08-25,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0372,ACC-10975,university,Ethan Brooks,Pricing page follow-up,2026-07-12,Re: Notion for your team,What does it cost for students after we graduate? Just wondering for myself.
+RPL-0373,ACC-10461,university,Daniel Okafor,Q3 team-plan outreach,2026-08-06,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0374,ACC-10457,university,Daniel Okafor,Pricing page follow-up,2026-09-25,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0375,ACC-10591,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-07-05,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0376,ACC-10353,company,Ethan Brooks,Pricing page follow-up,2026-07-08,Re: Following up on Notion Business,Is there a way to import our Confluence spaces without losing page history?
+RPL-0377,ACC-10969,company,Ethan Brooks,Q3 team-plan outreach,2026-09-19,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0378,ACC-10827,personal,Sofia Marquez,Q3 team-plan outreach,2026-07-29,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0379,ACC-10134,company,Daniel Okafor,Workspace growth check-in,2026-09-18,Re: Notion for your team,"Please send an order form for Business, roughly 38 seats. We'd like to start next month."
+RPL-0380,ACC-10500,university,Sofia Marquez,Pricing page follow-up,2026-09-17,Re: Quick question about your workspace,What does it cost for students after we graduate? Just wondering for myself.
+RPL-0381,ACC-11034,university,Ethan Brooks,Pricing page follow-up,2026-08-04,Re: Following up on Notion Business,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0382,ACC-10998,personal,Sofia Marquez,Q3 team-plan outreach,2026-07-31,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0383,ACC-10822,company,Daniel Okafor,Workspace growth check-in,2026-07-04,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0384,ACC-10521,company,Ethan Brooks,Workspace growth check-in,2026-07-14,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0385,ACC-10664,company,Ethan Brooks,Workspace growth check-in,2026-07-23,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0386,ACC-10297,company,Sofia Marquez,Q3 team-plan outreach,2026-07-14,Re: Notion for your team,We're trialling a few tools for our 103-person team. What makes Notion better for wikis?
+RPL-0387,ACC-10981,company,Ethan Brooks,Pricing page follow-up,2026-09-17,Re: Quick question about your workspace,Unsubscribe.
+RPL-0388,ACC-10170,company,Sofia Marquez,Workspace growth check-in,2026-08-20,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0389,ACC-10751,personal,Daniel Okafor,Workspace growth check-in,2026-09-11,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0390,ACC-11183,company,Sofia Marquez,Pricing page follow-up,2026-07-15,Re: Notion for your team,"Not interested, thanks."
+RPL-0391,ACC-10431,company,Daniel Okafor,Workspace growth check-in,2026-07-24,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0392,ACC-10181,company,Daniel Okafor,Workspace growth check-in,2026-07-14,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0393,ACC-10739,company,Sofia Marquez,Workspace growth check-in,2026-08-03,Re: Quick question about your workspace,"We're ready to move the team over. What does Enterprise cost for 121 users, and can you send a contract?"
+RPL-0394,ACC-11189,company,Sofia Marquez,Workspace growth check-in,2026-07-17,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0395,ACC-10117,personal,Sofia Marquez,Q3 team-plan outreach,2026-08-01,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0396,ACC-10435,personal,Sofia Marquez,Pricing page follow-up,2026-09-07,Re: Quick question about your workspace,We're trialling a few tools for our 89-person team. What makes Notion better for wikis?
+RPL-0397,ACC-10953,company,Ethan Brooks,Q3 team-plan outreach,2026-07-17,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0398,ACC-11097,personal,Daniel Okafor,Q3 team-plan outreach,2026-07-29,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0399,ACC-10773,company,Sofia Marquez,Q3 team-plan outreach,2026-08-27,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0400,ACC-11038,company,Sofia Marquez,Q3 team-plan outreach,2026-07-29,Re: Notion for your team,We have 83 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0401,ACC-10307,university,Ethan Brooks,Pricing page follow-up,2026-09-17,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0402,ACC-10293,personal,Ethan Brooks,Q3 team-plan outreach,2026-09-17,Re: Following up on Notion Business,We're trialling a few tools for our 17-person team. What makes Notion better for wikis?
+RPL-0403,ACC-10781,company,Ethan Brooks,Workspace growth check-in,2026-09-29,Re: Notion for your team,Please remove me from this list.
+RPL-0404,ACC-10733,university,Ethan Brooks,Pricing page follow-up,2026-08-20,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0405,ACC-10795,k12_school,Daniel Okafor,Pricing page follow-up,2026-08-27,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0406,ACC-11099,company,Sofia Marquez,Q3 team-plan outreach,2026-07-14,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0407,ACC-10127,company,Sofia Marquez,Q3 team-plan outreach,2026-08-29,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0408,ACC-10600,company,Daniel Okafor,Q3 team-plan outreach,2026-08-21,Re: Following up on Notion Business,We're trialling a few tools for our 128-person team. What makes Notion better for wikis?
+RPL-0409,ACC-10369,university,Ethan Brooks,Q3 team-plan outreach,2026-08-13,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0410,ACC-10463,k12_school,Daniel Okafor,Workspace growth check-in,2026-09-29,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 34 users."
+RPL-0411,ACC-11162,company,Daniel Okafor,Pricing page follow-up,2026-08-02,Auto: I'm away until next week,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0412,ACC-10433,university,Ethan Brooks,Pricing page follow-up,2026-08-08,Re: Quick question about your workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0413,ACC-10910,company,Daniel Okafor,Workspace growth check-in,2026-07-23,Re: Quick question about your workspace,"Wrong person, sorry. Procurement decides on anything with more than 107 users."
+RPL-0414,ACC-10354,company,Daniel Okafor,Q3 team-plan outreach,2026-09-21,Re: Your team's Notion workspace,We're trialling a few tools for our 52-person team. What makes Notion better for wikis?
+RPL-0415,ACC-10535,university,Sofia Marquez,Q3 team-plan outreach,2026-08-02,Re: Notion for your team,How much is the Education plan per student? I'm asking for our study group.
+RPL-0416,ACC-10559,company,Sofia Marquez,Pricing page follow-up,2026-09-23,Re: Quick question about your workspace,Can you send pricing for about 32 seats on Business? We'd want annual billing.
+RPL-0417,ACC-10401,company,Sofia Marquez,Pricing page follow-up,2026-07-03,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0418,ACC-10052,university,Daniel Okafor,Pricing page follow-up,2026-08-10,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0419,ACC-10859,company,Sofia Marquez,Q3 team-plan outreach,2026-09-25,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0420,ACC-10411,company,Ethan Brooks,Workspace growth check-in,2026-07-18,Re: Quick question about your workspace,"Wrong person, sorry. Procurement decides on anything with more than 8 users."
+RPL-0421,ACC-10199,university,Sofia Marquez,Q3 team-plan outreach,2026-09-09,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0422,ACC-10467,company,Sofia Marquez,Workspace growth check-in,2026-08-17,Re: Quick question about your workspace,"Not interested, thanks."
+RPL-0423,ACC-10104,company,Daniel Okafor,Q3 team-plan outreach,2026-07-20,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0424,ACC-10630,personal,Sofia Marquez,Pricing page follow-up,2026-09-19,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0425,ACC-10740,company,Ethan Brooks,Q3 team-plan outreach,2026-07-20,Re: Quick question about your workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0426,ACC-10949,company,Sofia Marquez,Pricing page follow-up,2026-07-20,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0427,ACC-10240,personal,Ethan Brooks,Workspace growth check-in,2026-08-16,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0428,ACC-10530,k12_school,Ethan Brooks,Pricing page follow-up,2026-09-29,Re: Notion for your team,We're trialling a few tools for our 169-person team. What makes Notion better for wikis?
+RPL-0429,ACC-10738,k12_school,Ethan Brooks,Pricing page follow-up,2026-08-09,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0430,ACC-11035,company,Daniel Okafor,Q3 team-plan outreach,2026-07-17,Re: Quick question about your workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0431,ACC-11145,university,Ethan Brooks,Q3 team-plan outreach,2026-09-11,Re: Your team's Notion workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0432,ACC-10835,company,Ethan Brooks,Workspace growth check-in,2026-07-01,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0433,ACC-10956,company,Ethan Brooks,Pricing page follow-up,2026-07-17,Auto: I'm away until next week,I'm travelling this week and will get back to you as soon as I can.
+RPL-0434,ACC-10434,company,Ethan Brooks,Pricing page follow-up,2026-08-24,Re: Quick question about your workspace,Our finance lead needs a quote for 103 seats before month end. Who do I talk to?
+RPL-0435,ACC-10957,personal,Ethan Brooks,Workspace growth check-in,2026-08-29,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0436,ACC-10220,company,Sofia Marquez,Q3 team-plan outreach,2026-08-24,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0437,ACC-10325,university,Sofia Marquez,Pricing page follow-up,2026-07-21,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0438,ACC-10153,company,Ethan Brooks,Workspace growth check-in,2026-07-14,Re: Following up on Notion Business,Our finance lead needs a quote for 34 seats before month end. Who do I talk to?
+RPL-0439,ACC-10402,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-08-24,Out of Office: Re: Notion for your team,I'm travelling this week and will get back to you as soon as I can.
+RPL-0440,ACC-10954,company,Ethan Brooks,Workspace growth check-in,2026-09-08,Re: Quick question about your workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0441,ACC-10968,company,Daniel Okafor,Q3 team-plan outreach,2026-08-12,Re: Following up on Notion Business,"Wrong person, sorry. Procurement decides on anything with more than 19 users."
+RPL-0442,ACC-11132,company,Ethan Brooks,Pricing page follow-up,2026-07-06,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0443,ACC-10764,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-14,Re: Notion for your team,"Not interested, thanks."
+RPL-0444,ACC-10284,company,Daniel Okafor,Q3 team-plan outreach,2026-09-05,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0445,ACC-10858,personal,Sofia Marquez,Workspace growth check-in,2026-08-12,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0446,ACC-10281,company,Sofia Marquez,Pricing page follow-up,2026-07-05,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0447,ACC-10397,personal,Sofia Marquez,Pricing page follow-up,2026-07-13,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0448,ACC-10180,company,Ethan Brooks,Pricing page follow-up,2026-09-09,Re: Notion for your team,We have 30 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0449,ACC-11043,university,Sofia Marquez,Pricing page follow-up,2026-07-26,Re: Following up on Notion Business,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0450,ACC-10943,k12_school,Daniel Okafor,Pricing page follow-up,2026-08-25,Re: Quick question about your workspace,Unsubscribe.
+RPL-0451,ACC-10201,company,Ethan Brooks,Pricing page follow-up,2026-07-01,Re: Quick question about your workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0452,ACC-11043,company,Sofia Marquez,Q3 team-plan outreach,2026-07-04,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0453,ACC-10059,personal,Sofia Marquez,Pricing page follow-up,2026-07-14,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0454,ACC-10954,k12_school,Daniel Okafor,Workspace growth check-in,2026-07-16,Re: Your team's Notion workspace,"Love the product, happy on free for the moment."
+RPL-0455,ACC-10631,k12_school,Ethan Brooks,Pricing page follow-up,2026-08-05,Re: Your team's Notion workspace,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.
+RPL-0456,ACC-10218,company,Daniel Okafor,Pricing page follow-up,2026-07-07,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0457,ACC-11046,company,Sofia Marquez,Workspace growth check-in,2026-07-16,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0458,ACC-11047,company,Sofia Marquez,Workspace growth check-in,2026-09-24,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0459,ACC-10841,company,Ethan Brooks,Pricing page follow-up,2026-08-23,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0460,ACC-11043,k12_school,Sofia Marquez,Workspace growth check-in,2026-08-08,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0461,ACC-10522,university,Daniel Okafor,Q3 team-plan outreach,2026-07-13,Re: Quick question about your workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0462,ACC-10235,company,Ethan Brooks,Pricing page follow-up,2026-08-01,Re: Quick question about your workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0463,ACC-11126,personal,Ethan Brooks,Workspace growth check-in,2026-09-20,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0464,ACC-10974,company,Sofia Marquez,Q3 team-plan outreach,2026-08-24,Re: Quick question about your workspace,We have 46 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0465,ACC-10965,company,Ethan Brooks,Q3 team-plan outreach,2026-07-12,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0466,ACC-11154,company,Sofia Marquez,Q3 team-plan outreach,2026-09-01,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0467,ACC-10091,university,Ethan Brooks,Pricing page follow-up,2026-08-08,Re: Your team's Notion workspace,What does it cost for students after we graduate? Just wondering for myself.
+RPL-0468,ACC-10561,company,Sofia Marquez,Q3 team-plan outreach,2026-08-10,Re: Your team's Notion workspace,Is there a volume discount above 79 seats? We're comparing your quote to Confluence's.
+RPL-0469,ACC-11052,company,Ethan Brooks,Pricing page follow-up,2026-07-28,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0470,ACC-10619,university,Ethan Brooks,Q3 team-plan outreach,2026-08-05,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0471,ACC-10717,personal,Daniel Okafor,Workspace growth check-in,2026-09-15,Re: Notion for your team,I'm not the right person. Our IT lead handles software purchases.
+RPL-0472,ACC-10551,company,Sofia Marquez,Pricing page follow-up,2026-07-21,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0473,ACC-10362,company,Ethan Brooks,Q3 team-plan outreach,2026-08-02,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0474,ACC-10734,company,Sofia Marquez,Pricing page follow-up,2026-07-15,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0475,ACC-11185,company,Sofia Marquez,Q3 team-plan outreach,2026-09-03,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0476,ACC-10965,personal,Sofia Marquez,Workspace growth check-in,2026-08-23,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0477,ACC-10897,k12_school,Ethan Brooks,Pricing page follow-up,2026-07-05,Re: Quick question about your workspace,Unsubscribe.
+RPL-0478,ACC-10335,company,Daniel Okafor,Workspace growth check-in,2026-09-15,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0479,ACC-10799,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-09-08,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0480,ACC-10237,company,Ethan Brooks,Q3 team-plan outreach,2026-07-17,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0481,ACC-10750,company,Ethan Brooks,Workspace growth check-in,2026-09-27,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0482,ACC-10125,company,Ethan Brooks,Pricing page follow-up,2026-07-12,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0483,ACC-10798,personal,Sofia Marquez,Workspace growth check-in,2026-07-31,Re: Your team's Notion workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0484,ACC-10942,company,Sofia Marquez,Workspace growth check-in,2026-08-20,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0485,ACC-10757,company,Sofia Marquez,Q3 team-plan outreach,2026-07-27,Re: Quick question about your workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0486,ACC-10459,company,Ethan Brooks,Workspace growth check-in,2026-08-15,Re: Following up on Notion Business,Is there a way to import our Confluence spaces without losing page history?
+RPL-0487,ACC-10230,university,Ethan Brooks,Pricing page follow-up,2026-07-26,Re: Following up on Notion Business,How much is the Education plan per student? I'm asking for our study group.
+RPL-0488,ACC-10587,company,Sofia Marquez,Pricing page follow-up,2026-08-22,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0489,ACC-10216,company,Ethan Brooks,Q3 team-plan outreach,2026-08-02,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0490,ACC-10354,personal,Ethan Brooks,Pricing page follow-up,2026-08-29,Re: Quick question about your workspace,Unsubscribe.
+RPL-0491,ACC-10744,company,Sofia Marquez,Pricing page follow-up,2026-09-27,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0492,ACC-10078,company,Ethan Brooks,Q3 team-plan outreach,2026-07-01,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0493,ACC-10580,company,Sofia Marquez,Pricing page follow-up,2026-09-28,Re: Your team's Notion workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0494,ACC-10299,company,Sofia Marquez,Workspace growth check-in,2026-07-23,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0495,ACC-10058,company,Daniel Okafor,Workspace growth check-in,2026-07-28,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0496,ACC-10263,company,Ethan Brooks,Q3 team-plan outreach,2026-09-23,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0497,ACC-10765,university,Sofia Marquez,Workspace growth check-in,2026-09-10,Re: Notion for your team,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.
+RPL-0498,ACC-10445,university,Daniel Okafor,Pricing page follow-up,2026-09-18,Automatic reply: Out of office,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0499,ACC-10629,company,Daniel Okafor,Pricing page follow-up,2026-09-06,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0500,ACC-10447,company,Sofia Marquez,Workspace growth check-in,2026-07-04,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0501,ACC-10896,company,Sofia Marquez,Workspace growth check-in,2026-08-11,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0502,ACC-10342,company,Sofia Marquez,Workspace growth check-in,2026-09-14,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0503,ACC-10654,company,Sofia Marquez,Pricing page follow-up,2026-08-16,Re: Quick question about your workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0504,ACC-10166,company,Ethan Brooks,Q3 team-plan outreach,2026-09-20,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0505,ACC-10664,personal,Sofia Marquez,Q3 team-plan outreach,2026-08-29,Re: Notion for your team,Unsubscribe.
+RPL-0506,ACC-10607,personal,Daniel Okafor,Q3 team-plan outreach,2026-09-30,Re: Your team's Notion workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0507,ACC-10903,company,Daniel Okafor,Q3 team-plan outreach,2026-08-18,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0508,ACC-10672,university,Sofia Marquez,Workspace growth check-in,2026-07-27,Re: Notion for your team,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0509,ACC-10059,university,Ethan Brooks,Pricing page follow-up,2026-08-16,Re: Notion for your team,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0510,ACC-10430,company,Sofia Marquez,Workspace growth check-in,2026-08-27,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0511,ACC-10557,company,Sofia Marquez,Workspace growth check-in,2026-07-19,Re: Quick question about your workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0512,ACC-10798,university,Sofia Marquez,Pricing page follow-up,2026-09-20,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0513,ACC-10546,company,Daniel Okafor,Workspace growth check-in,2026-07-26,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0514,ACC-10010,k12_school,Sofia Marquez,Pricing page follow-up,2026-09-24,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0515,ACC-11075,university,Ethan Brooks,Q3 team-plan outreach,2026-07-03,Re: Your team's Notion workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0516,ACC-10584,personal,Daniel Okafor,Q3 team-plan outreach,2026-07-17,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0517,ACC-10681,company,Sofia Marquez,Q3 team-plan outreach,2026-07-22,Re: Notion for your team,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0518,ACC-11181,company,Ethan Brooks,Workspace growth check-in,2026-08-19,Re: Quick question about your workspace,Is there a volume discount above 59 seats? We're comparing your quote to Confluence's.
+RPL-0519,ACC-10902,company,Sofia Marquez,Q3 team-plan outreach,2026-09-25,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0520,ACC-10583,company,Sofia Marquez,Workspace growth check-in,2026-08-11,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0521,ACC-10283,company,Ethan Brooks,Workspace growth check-in,2026-09-27,Automatic reply: Out of office,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0522,ACC-10641,company,Daniel Okafor,Q3 team-plan outreach,2026-07-28,Re: Your team's Notion workspace,"Wrong person, sorry. Procurement decides on anything with more than 132 users."
+RPL-0523,ACC-11119,company,Ethan Brooks,Pricing page follow-up,2026-07-14,Auto: I'm away until next week,I'm travelling this week and will get back to you as soon as I can.
+RPL-0524,ACC-10430,personal,Daniel Okafor,Pricing page follow-up,2026-08-03,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0525,ACC-11111,company,Daniel Okafor,Q3 team-plan outreach,2026-08-24,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0526,ACC-10756,company,Sofia Marquez,Q3 team-plan outreach,2026-07-11,Re: Notion for your team,Please remove me from this list.
+RPL-0527,ACC-10283,university,Sofia Marquez,Pricing page follow-up,2026-09-02,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0528,ACC-10584,company,Sofia Marquez,Workspace growth check-in,2026-07-18,Re: Quick question about your workspace,"Not interested, thanks."
+RPL-0529,ACC-10164,company,Ethan Brooks,Pricing page follow-up,2026-09-15,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0530,ACC-10318,university,Sofia Marquez,Workspace growth check-in,2026-09-01,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0531,ACC-10060,company,Daniel Okafor,Workspace growth check-in,2026-09-07,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0532,ACC-10749,personal,Sofia Marquez,Pricing page follow-up,2026-09-21,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0533,ACC-10479,university,Daniel Okafor,Pricing page follow-up,2026-09-03,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0534,ACC-10822,personal,Ethan Brooks,Workspace growth check-in,2026-09-26,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0535,ACC-10486,company,Ethan Brooks,Q3 team-plan outreach,2026-09-14,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0536,ACC-10782,company,Daniel Okafor,Q3 team-plan outreach,2026-07-21,Re: Notion for your team,Please remove me from this list.
+RPL-0537,ACC-11130,personal,Sofia Marquez,Workspace growth check-in,2026-09-30,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0538,ACC-10076,company,Sofia Marquez,Q3 team-plan outreach,2026-07-21,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0539,ACC-10362,personal,Sofia Marquez,Q3 team-plan outreach,2026-08-14,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0540,ACC-10349,company,Ethan Brooks,Pricing page follow-up,2026-09-19,Re: Quick question about your workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0541,ACC-10444,university,Sofia Marquez,Q3 team-plan outreach,2026-08-04,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0542,ACC-10165,company,Ethan Brooks,Pricing page follow-up,2026-08-15,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0543,ACC-10419,university,Ethan Brooks,Q3 team-plan outreach,2026-07-26,Re: Following up on Notion Business,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0544,ACC-10495,company,Sofia Marquez,Workspace growth check-in,2026-08-23,Re: Quick question about your workspace,Is there a volume discount above 66 seats? We're comparing your quote to Confluence's.
+RPL-0545,ACC-10258,company,Ethan Brooks,Pricing page follow-up,2026-08-30,Re: Quick question about your workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0546,ACC-11002,company,Sofia Marquez,Q3 team-plan outreach,2026-08-27,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0547,ACC-10992,university,Ethan Brooks,Workspace growth check-in,2026-09-26,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0548,ACC-10047,university,Sofia Marquez,Pricing page follow-up,2026-09-01,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0549,ACC-10722,personal,Sofia Marquez,Workspace growth check-in,2026-09-10,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0550,ACC-10737,company,Ethan Brooks,Pricing page follow-up,2026-07-24,Re: Quick question about your workspace,Unsubscribe.
+RPL-0551,ACC-10270,university,Sofia Marquez,Workspace growth check-in,2026-09-11,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0552,ACC-10549,company,Sofia Marquez,Q3 team-plan outreach,2026-09-02,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0553,ACC-10126,university,Ethan Brooks,Pricing page follow-up,2026-07-03,Re: Notion for your team,We're trialling a few tools for our 18-person team. What makes Notion better for wikis?
+RPL-0554,ACC-10194,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-26,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0555,ACC-11164,company,Sofia Marquez,Pricing page follow-up,2026-09-06,Automatic reply: Out of office,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0556,ACC-11185,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-09-20,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0557,ACC-10396,company,Ethan Brooks,Q3 team-plan outreach,2026-07-24,Re: Your team's Notion workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0558,ACC-10119,university,Sofia Marquez,Pricing page follow-up,2026-07-03,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0559,ACC-10525,company,Sofia Marquez,Pricing page follow-up,2026-09-17,Re: Your team's Notion workspace,Is there a volume discount above 84 seats? We're comparing your quote to Confluence's.
+RPL-0560,ACC-10040,company,Daniel Okafor,Pricing page follow-up,2026-08-02,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0561,ACC-11118,university,Daniel Okafor,Q3 team-plan outreach,2026-07-27,Re: Notion for your team,Please remove me from this list.
+RPL-0562,ACC-10380,company,Ethan Brooks,Pricing page follow-up,2026-08-04,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0563,ACC-10225,company,Ethan Brooks,Pricing page follow-up,2026-09-27,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0564,ACC-11001,company,Daniel Okafor,Workspace growth check-in,2026-07-18,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0565,ACC-10293,company,Daniel Okafor,Pricing page follow-up,2026-09-02,Re: Quick question about your workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0566,ACC-10101,k12_school,Ethan Brooks,Pricing page follow-up,2026-09-18,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0567,ACC-11038,company,Ethan Brooks,Q3 team-plan outreach,2026-09-14,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0568,ACC-10469,university,Daniel Okafor,Workspace growth check-in,2026-07-29,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0569,ACC-10930,company,Sofia Marquez,Q3 team-plan outreach,2026-09-01,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0570,ACC-10943,personal,Sofia Marquez,Q3 team-plan outreach,2026-07-15,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0571,ACC-10349,personal,Sofia Marquez,Q3 team-plan outreach,2026-09-15,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0572,ACC-11061,company,Ethan Brooks,Workspace growth check-in,2026-07-11,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0573,ACC-10706,university,Ethan Brooks,Workspace growth check-in,2026-08-29,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0574,ACC-10995,university,Sofia Marquez,Q3 team-plan outreach,2026-08-11,Re: Notion for your team,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0575,ACC-10229,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-08-08,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0576,ACC-10867,company,Ethan Brooks,Pricing page follow-up,2026-07-29,Re: Quick question about your workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0577,ACC-10786,company,Daniel Okafor,Pricing page follow-up,2026-09-11,Re: Quick question about your workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0578,ACC-10841,company,Sofia Marquez,Q3 team-plan outreach,2026-07-10,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0579,ACC-11172,university,Sofia Marquez,Q3 team-plan outreach,2026-09-06,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0580,ACC-10843,company,Sofia Marquez,Q3 team-plan outreach,2026-08-31,Re: Quick question about your workspace,"Wrong person, sorry. Procurement decides on anything with more than 64 users."
+RPL-0581,ACC-10905,company,Ethan Brooks,Workspace growth check-in,2026-08-24,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0582,ACC-10115,company,Sofia Marquez,Pricing page follow-up,2026-09-09,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0583,ACC-10745,university,Ethan Brooks,Q3 team-plan outreach,2026-08-01,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0584,ACC-10042,company,Ethan Brooks,Pricing page follow-up,2026-08-23,Re: Notion for your team,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0585,ACC-10047,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-07-17,Out of Office: Re: Notion for your team,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0586,ACC-10044,company,Sofia Marquez,Pricing page follow-up,2026-08-11,Re: Notion for your team,Our finance lead needs a quote for 32 seats before month end. Who do I talk to?
+RPL-0587,ACC-10604,company,Sofia Marquez,Workspace growth check-in,2026-07-30,Re: Quick question about your workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0588,ACC-11036,university,Sofia Marquez,Q3 team-plan outreach,2026-09-13,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0589,ACC-11067,company,Daniel Okafor,Workspace growth check-in,2026-07-23,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 19 users."
+RPL-0590,ACC-10584,personal,Daniel Okafor,Workspace growth check-in,2026-09-25,Re: Quick question about your workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0591,ACC-10961,company,Ethan Brooks,Q3 team-plan outreach,2026-07-27,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0592,ACC-10574,company,Daniel Okafor,Q3 team-plan outreach,2026-08-09,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0593,ACC-10160,company,Ethan Brooks,Q3 team-plan outreach,2026-09-05,Re: Your team's Notion workspace,What's your data residency setup for EU customers?
+RPL-0594,ACC-10578,company,Sofia Marquez,Q3 team-plan outreach,2026-07-23,Re: Your team's Notion workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0595,ACC-10039,personal,Sofia Marquez,Pricing page follow-up,2026-08-12,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0596,ACC-11105,company,Sofia Marquez,Workspace growth check-in,2026-09-07,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 72 users."
+RPL-0597,ACC-10118,company,Sofia Marquez,Pricing page follow-up,2026-09-22,Re: Quick question about your workspace,Is there a volume discount above 112 seats? We're comparing your quote to Confluence's.
+RPL-0598,ACC-10493,university,Sofia Marquez,Q3 team-plan outreach,2026-08-02,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0599,ACC-10964,company,Daniel Okafor,Workspace growth check-in,2026-09-14,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0600,ACC-10802,k12_school,Sofia Marquez,Pricing page follow-up,2026-08-19,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0601,ACC-10146,university,Sofia Marquez,Q3 team-plan outreach,2026-07-20,Re: Notion for your team,Unsubscribe.
+RPL-0602,ACC-10640,company,Sofia Marquez,Q3 team-plan outreach,2026-09-15,Re: Your team's Notion workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0603,ACC-10420,company,Sofia Marquez,Q3 team-plan outreach,2026-08-21,Re: Your team's Notion workspace,"Love the product, happy on free for the moment."
+RPL-0604,ACC-10937,company,Ethan Brooks,Pricing page follow-up,2026-07-20,Re: Quick question about your workspace,"We're ready to move the team over. What does Enterprise cost for 100 users, and can you send a contract?"
+RPL-0605,ACC-10030,university,Sofia Marquez,Q3 team-plan outreach,2026-07-31,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0606,ACC-11195,company,Sofia Marquez,Q3 team-plan outreach,2026-09-11,Re: Notion for your team,Is there a volume discount above 116 seats? We're comparing your quote to Confluence's.
+RPL-0607,ACC-10064,company,Daniel Okafor,Workspace growth check-in,2026-07-29,Re: Quick question about your workspace,"Wrong person, sorry. Procurement decides on anything with more than 32 users."
+RPL-0608,ACC-10259,company,Daniel Okafor,Workspace growth check-in,2026-07-11,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0609,ACC-11123,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-09-21,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0610,ACC-11027,company,Ethan Brooks,Pricing page follow-up,2026-09-13,Re: Your team's Notion workspace,We have 14 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0611,ACC-11155,company,Sofia Marquez,Workspace growth check-in,2026-07-31,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0612,ACC-10657,company,Sofia Marquez,Pricing page follow-up,2026-07-19,Re: Notion for your team,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0613,ACC-10771,personal,Ethan Brooks,Workspace growth check-in,2026-09-24,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0614,ACC-11111,personal,Daniel Okafor,Pricing page follow-up,2026-07-25,Re: Notion for your team,Please remove me from this list.
+RPL-0615,ACC-10261,company,Sofia Marquez,Pricing page follow-up,2026-08-19,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0616,ACC-10392,personal,Daniel Okafor,Q3 team-plan outreach,2026-08-17,Re: Quick question about your workspace,"Not interested, thanks."
+RPL-0617,ACC-10207,university,Sofia Marquez,Pricing page follow-up,2026-09-02,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0618,ACC-10834,university,Sofia Marquez,Pricing page follow-up,2026-07-27,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0619,ACC-10104,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-07-01,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0620,ACC-11113,company,Daniel Okafor,Workspace growth check-in,2026-09-02,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0621,ACC-10793,company,Daniel Okafor,Q3 team-plan outreach,2026-08-07,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0622,ACC-10965,personal,Ethan Brooks,Pricing page follow-up,2026-07-27,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0623,ACC-10847,university,Ethan Brooks,Workspace growth check-in,2026-09-08,Re: Quick question about your workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0624,ACC-10156,company,Ethan Brooks,Pricing page follow-up,2026-07-15,Re: Your team's Notion workspace,Can you send pricing for about 39 seats on Business? We'd want annual billing.
+RPL-0625,ACC-10177,company,Ethan Brooks,Pricing page follow-up,2026-07-30,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0626,ACC-10688,personal,Daniel Okafor,Workspace growth check-in,2026-09-04,Re: Following up on Notion Business,"Not interested, thanks."
+RPL-0627,ACC-10127,company,Sofia Marquez,Q3 team-plan outreach,2026-08-03,Re: Quick question about your workspace,We have 55 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0628,ACC-10583,company,Daniel Okafor,Q3 team-plan outreach,2026-08-26,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0629,ACC-10652,company,Daniel Okafor,Pricing page follow-up,2026-09-11,Re: Notion for your team,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0630,ACC-11032,company,Sofia Marquez,Workspace growth check-in,2026-08-12,Re: Following up on Notion Business,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0631,ACC-10056,company,Ethan Brooks,Q3 team-plan outreach,2026-09-13,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0632,ACC-10151,company,Ethan Brooks,Workspace growth check-in,2026-07-26,Re: Following up on Notion Business,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0633,ACC-10429,personal,Ethan Brooks,Pricing page follow-up,2026-09-15,Out of Office: Re: Notion for your team,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0634,ACC-10764,company,Ethan Brooks,Pricing page follow-up,2026-07-18,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0635,ACC-10523,company,Sofia Marquez,Q3 team-plan outreach,2026-09-16,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0636,ACC-10488,university,Ethan Brooks,Q3 team-plan outreach,2026-07-27,Re: Quick question about your workspace,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0637,ACC-10071,company,Sofia Marquez,Workspace growth check-in,2026-08-17,Re: Notion for your team,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0638,ACC-10408,company,Ethan Brooks,Pricing page follow-up,2026-07-20,Re: Following up on Notion Business,"Wrong person, sorry. Procurement decides on anything with more than 103 users."
+RPL-0639,ACC-10476,company,Daniel Okafor,Workspace growth check-in,2026-07-18,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0640,ACC-10012,company,Ethan Brooks,Pricing page follow-up,2026-08-05,Re: Notion for your team,We have 80 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0641,ACC-10260,company,Ethan Brooks,Workspace growth check-in,2026-09-13,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0642,ACC-10930,company,Ethan Brooks,Q3 team-plan outreach,2026-09-05,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0643,ACC-11115,personal,Sofia Marquez,Workspace growth check-in,2026-08-12,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0644,ACC-10261,university,Sofia Marquez,Q3 team-plan outreach,2026-09-10,Re: Notion for your team,"We might look at this later, just not a priority right now."
+RPL-0645,ACC-10550,university,Ethan Brooks,Q3 team-plan outreach,2026-08-06,Re: Quick question about your workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0646,ACC-10754,company,Sofia Marquez,Pricing page follow-up,2026-07-16,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0647,ACC-10841,university,Ethan Brooks,Q3 team-plan outreach,2026-09-14,Re: Following up on Notion Business,Unsubscribe.
+RPL-0648,ACC-10104,university,Ethan Brooks,Pricing page follow-up,2026-09-11,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0649,ACC-10139,personal,Daniel Okafor,Pricing page follow-up,2026-09-21,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0650,ACC-10215,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-08-31,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0651,ACC-10117,company,Ethan Brooks,Workspace growth check-in,2026-07-15,Re: Quick question about your workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0652,ACC-10973,company,Sofia Marquez,Workspace growth check-in,2026-07-03,Auto: I'm away until next week,I'm travelling this week and will get back to you as soon as I can.
+RPL-0653,ACC-10684,company,Sofia Marquez,Pricing page follow-up,2026-08-07,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0654,ACC-10287,company,Daniel Okafor,Q3 team-plan outreach,2026-07-13,Re: Quick question about your workspace,We're trialling a few tools for our 40-person team. What makes Notion better for wikis?
+RPL-0655,ACC-10987,company,Ethan Brooks,Workspace growth check-in,2026-08-09,Re: Following up on Notion Business,We're trialling a few tools for our 97-person team. What makes Notion better for wikis?
+RPL-0656,ACC-10287,university,Sofia Marquez,Q3 team-plan outreach,2026-08-06,Re: Quick question about your workspace,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.
+RPL-0657,ACC-10381,company,Ethan Brooks,Q3 team-plan outreach,2026-09-16,Re: Following up on Notion Business,Unsubscribe.
+RPL-0658,ACC-11076,company,Sofia Marquez,Q3 team-plan outreach,2026-07-05,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0659,ACC-10235,university,Sofia Marquez,Q3 team-plan outreach,2026-08-15,Out of Office: Re: Notion for your team,I'm travelling this week and will get back to you as soon as I can.
+RPL-0660,ACC-10193,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-19,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0661,ACC-10637,company,Ethan Brooks,Workspace growth check-in,2026-09-04,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0662,ACC-10690,company,Daniel Okafor,Workspace growth check-in,2026-09-21,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0663,ACC-10501,company,Daniel Okafor,Workspace growth check-in,2026-07-11,Re: Your team's Notion workspace,"Love the product, happy on free for the moment."
+RPL-0664,ACC-10822,company,Daniel Okafor,Q3 team-plan outreach,2026-08-31,Re: Quick question about your workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0665,ACC-11042,company,Sofia Marquez,Q3 team-plan outreach,2026-08-01,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0666,ACC-11130,company,Ethan Brooks,Q3 team-plan outreach,2026-07-17,Re: Notion for your team,Can you send pricing for about 51 seats on Business? We'd want annual billing.
+RPL-0667,ACC-10510,company,Ethan Brooks,Workspace growth check-in,2026-09-05,Re: Notion for your team,Is there a way to import our Confluence spaces without losing page history?
+RPL-0668,ACC-11140,personal,Sofia Marquez,Q3 team-plan outreach,2026-09-03,Re: Your team's Notion workspace,"Keep me posted, we could revisit after our planning cycle."
+RPL-0669,ACC-10262,company,Sofia Marquez,Workspace growth check-in,2026-09-03,Re: Notion for your team,"Wrong person, sorry. Procurement decides on anything with more than 100 users."
+RPL-0670,ACC-10695,university,Ethan Brooks,Workspace growth check-in,2026-07-22,Re: Following up on Notion Business,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0671,ACC-10249,personal,Sofia Marquez,Pricing page follow-up,2026-08-08,Re: Quick question about your workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0672,ACC-10883,company,Daniel Okafor,Q3 team-plan outreach,2026-07-26,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0673,ACC-10753,company,Daniel Okafor,Q3 team-plan outreach,2026-07-06,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0674,ACC-11078,company,Daniel Okafor,Workspace growth check-in,2026-09-10,Re: Notion for your team,Our finance lead needs a quote for 108 seats before month end. Who do I talk to?
+RPL-0675,ACC-10553,company,Ethan Brooks,Pricing page follow-up,2026-07-19,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0676,ACC-10049,company,Ethan Brooks,Q3 team-plan outreach,2026-07-01,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0677,ACC-10649,company,Daniel Okafor,Pricing page follow-up,2026-09-28,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0678,ACC-11126,company,Ethan Brooks,Workspace growth check-in,2026-07-01,Re: Your team's Notion workspace,We have 80 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0679,ACC-10928,company,Ethan Brooks,Pricing page follow-up,2026-07-30,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0680,ACC-10582,company,Ethan Brooks,Q3 team-plan outreach,2026-09-01,Re: Following up on Notion Business,We're trialling a few tools for our 8-person team. What makes Notion better for wikis?
+RPL-0681,ACC-10209,company,Sofia Marquez,Q3 team-plan outreach,2026-08-05,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0682,ACC-10760,company,Ethan Brooks,Pricing page follow-up,2026-09-23,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0683,ACC-10025,university,Ethan Brooks,Q3 team-plan outreach,2026-07-24,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0684,ACC-11107,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-07-24,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0685,ACC-10168,company,Sofia Marquez,Workspace growth check-in,2026-07-06,Re: Your team's Notion workspace,Our finance lead needs a quote for 41 seats before month end. Who do I talk to?
+RPL-0686,ACC-11028,company,Sofia Marquez,Pricing page follow-up,2026-08-18,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0687,ACC-10483,company,Sofia Marquez,Workspace growth check-in,2026-07-26,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0688,ACC-10335,personal,Ethan Brooks,Workspace growth check-in,2026-08-19,Re: Notion for your team,"We just signed with Confluence for the whole company, so we're all set."
+RPL-0689,ACC-10943,company,Sofia Marquez,Pricing page follow-up,2026-07-03,Re: Quick question about your workspace,I'm not the right person. Our IT lead handles software purchases.
+RPL-0690,ACC-10677,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-09-03,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0691,ACC-10023,company,Sofia Marquez,Q3 team-plan outreach,2026-08-20,Re: Quick question about your workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0692,ACC-10650,company,Sofia Marquez,Pricing page follow-up,2026-07-14,Re: Quick question about your workspace,Is there a way to import our Confluence spaces without losing page history?
+RPL-0693,ACC-10103,personal,Ethan Brooks,Workspace growth check-in,2026-08-02,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0694,ACC-10143,company,Sofia Marquez,Pricing page follow-up,2026-09-15,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0695,ACC-10797,company,Ethan Brooks,Pricing page follow-up,2026-08-10,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0696,ACC-10925,personal,Ethan Brooks,Workspace growth check-in,2026-08-07,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0697,ACC-10034,company,Ethan Brooks,Q3 team-plan outreach,2026-09-29,Re: Notion for your team,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0698,ACC-10139,company,Daniel Okafor,Q3 team-plan outreach,2026-07-11,Out of Office: Re: Notion for your team,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0699,ACC-10789,university,Sofia Marquez,Workspace growth check-in,2026-07-28,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0700,ACC-10086,k12_school,Ethan Brooks,Workspace growth check-in,2026-07-03,Re: Following up on Notion Business,"Wrong person, sorry. Procurement decides on anything with more than 8 users."
+RPL-0701,ACC-10760,company,Sofia Marquez,Q3 team-plan outreach,2026-09-04,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0702,ACC-10090,company,Sofia Marquez,Workspace growth check-in,2026-09-22,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0703,ACC-11184,company,Daniel Okafor,Workspace growth check-in,2026-08-25,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0704,ACC-10243,company,Ethan Brooks,Workspace growth check-in,2026-08-12,Re: Notion for your team,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0705,ACC-10875,company,Daniel Okafor,Pricing page follow-up,2026-08-19,Out of Office: Re: Notion for your team,This mailbox is not monitored. For urgent matters contact the front desk.
+RPL-0706,ACC-11118,company,Sofia Marquez,Q3 team-plan outreach,2026-07-29,Re: Quick question about your workspace,We have 23 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0707,ACC-10203,company,Ethan Brooks,Pricing page follow-up,2026-09-10,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0708,ACC-10732,company,Sofia Marquez,Q3 team-plan outreach,2026-09-06,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0709,ACC-10710,company,Ethan Brooks,Workspace growth check-in,2026-08-29,Re: Your team's Notion workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0710,ACC-10884,company,Ethan Brooks,Workspace growth check-in,2026-08-26,Re: Your team's Notion workspace,We're trialling a few tools for our 73-person team. What makes Notion better for wikis?
+RPL-0711,ACC-11007,company,Daniel Okafor,Q3 team-plan outreach,2026-08-28,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0712,ACC-10597,company,Sofia Marquez,Pricing page follow-up,2026-09-29,Re: Quick question about your workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0713,ACC-10942,company,Ethan Brooks,Pricing page follow-up,2026-07-24,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0714,ACC-10636,company,Ethan Brooks,Workspace growth check-in,2026-08-02,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0715,ACC-10984,university,Ethan Brooks,Pricing page follow-up,2026-09-08,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0716,ACC-10047,company,Daniel Okafor,Q3 team-plan outreach,2026-09-22,Re: Notion for your team,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0717,ACC-10487,company,Sofia Marquez,Pricing page follow-up,2026-07-08,Re: Notion for your team,What's your data residency setup for EU customers?
+RPL-0718,ACC-11073,k12_school,Sofia Marquez,Workspace growth check-in,2026-09-28,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0719,ACC-11027,company,Sofia Marquez,Q3 team-plan outreach,2026-08-10,Out of Office: Re: Notion for your team,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0720,ACC-10692,company,Daniel Okafor,Q3 team-plan outreach,2026-07-11,Re: Quick question about your workspace,Unsubscribe.
+RPL-0721,ACC-10235,company,Daniel Okafor,Q3 team-plan outreach,2026-07-01,Automatic reply: Out of office,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0722,ACC-10618,personal,Daniel Okafor,Pricing page follow-up,2026-08-05,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0723,ACC-10072,personal,Sofia Marquez,Pricing page follow-up,2026-08-04,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0724,ACC-10943,company,Ethan Brooks,Pricing page follow-up,2026-08-29,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0725,ACC-10007,university,Sofia Marquez,Pricing page follow-up,2026-08-18,Re: Your team's Notion workspace,Not this quarter. The free plan works for us for now.
+RPL-0726,ACC-10750,company,Sofia Marquez,Q3 team-plan outreach,2026-09-17,Re: Notion for your team,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0727,ACC-10216,company,Sofia Marquez,Q3 team-plan outreach,2026-07-13,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0728,ACC-10593,university,Sofia Marquez,Pricing page follow-up,2026-09-06,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0729,ACC-11180,k12_school,Daniel Okafor,Workspace growth check-in,2026-09-17,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0730,ACC-10695,company,Sofia Marquez,Pricing page follow-up,2026-08-18,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0731,ACC-10932,company,Sofia Marquez,Pricing page follow-up,2026-08-13,Re: Notion for your team,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0732,ACC-10898,university,Sofia Marquez,Q3 team-plan outreach,2026-07-20,Re: Quick question about your workspace,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0733,ACC-10155,personal,Sofia Marquez,Q3 team-plan outreach,2026-07-06,Re: Quick question about your workspace,Unsubscribe.
+RPL-0734,ACC-10443,k12_school,Sofia Marquez,Pricing page follow-up,2026-08-08,Re: Notion for your team,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0735,ACC-10500,personal,Sofia Marquez,Q3 team-plan outreach,2026-08-14,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0736,ACC-10370,company,Ethan Brooks,Q3 team-plan outreach,2026-07-22,Re: Quick question about your workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0737,ACC-10845,personal,Ethan Brooks,Pricing page follow-up,2026-07-26,Re: Quick question about your workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0738,ACC-11075,company,Sofia Marquez,Q3 team-plan outreach,2026-09-08,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0739,ACC-11127,company,Daniel Okafor,Q3 team-plan outreach,2026-07-25,Re: Following up on Notion Business,Is there a volume discount above 114 seats? We're comparing your quote to Confluence's.
+RPL-0740,ACC-10195,company,Sofia Marquez,Workspace growth check-in,2026-08-16,Re: Your team's Notion workspace,We have 112 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0741,ACC-10915,company,Sofia Marquez,Workspace growth check-in,2026-09-21,Re: Following up on Notion Business,We have 26 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0742,ACC-10836,company,Sofia Marquez,Pricing page follow-up,2026-07-31,Re: Following up on Notion Business,"Please send an order form for Business, roughly 30 seats. We'd like to start next month."
+RPL-0743,ACC-10733,company,Sofia Marquez,Q3 team-plan outreach,2026-08-18,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0744,ACC-10680,personal,Ethan Brooks,Workspace growth check-in,2026-07-07,Re: Quick question about your workspace,"We might look at this later, just not a priority right now."
+RPL-0745,ACC-11171,company,Sofia Marquez,Workspace growth check-in,2026-09-12,Re: Notion for your team,Our finance lead needs a quote for 109 seats before month end. Who do I talk to?
+RPL-0746,ACC-10108,company,Ethan Brooks,Pricing page follow-up,2026-08-21,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0747,ACC-10431,university,Sofia Marquez,Q3 team-plan outreach,2026-08-26,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0748,ACC-10208,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-09-12,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0749,ACC-10092,company,Daniel Okafor,Pricing page follow-up,2026-09-17,Re: Your team's Notion workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0750,ACC-10592,company,Sofia Marquez,Workspace growth check-in,2026-07-18,Re: Notion for your team,Unsubscribe.
+RPL-0751,ACC-10177,company,Sofia Marquez,Q3 team-plan outreach,2026-07-20,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0752,ACC-10482,university,Ethan Brooks,Workspace growth check-in,2026-08-26,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0753,ACC-11034,company,Daniel Okafor,Workspace growth check-in,2026-09-26,Re: Following up on Notion Business,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0754,ACC-10462,company,Sofia Marquez,Pricing page follow-up,2026-07-16,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0755,ACC-10880,personal,Sofia Marquez,Q3 team-plan outreach,2026-08-26,Re: Following up on Notion Business,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0756,ACC-10970,company,Sofia Marquez,Q3 team-plan outreach,2026-08-02,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0757,ACC-10334,company,Ethan Brooks,Pricing page follow-up,2026-09-23,Re: Following up on Notion Business,"Keep me posted, we could revisit after our planning cycle."
+RPL-0758,ACC-10067,personal,Sofia Marquez,Workspace growth check-in,2026-09-12,Re: Your team's Notion workspace,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0759,ACC-10291,company,Ethan Brooks,Q3 team-plan outreach,2026-09-22,Re: Notion for your team,"Not interested, thanks."
+RPL-0760,ACC-11169,company,Ethan Brooks,Pricing page follow-up,2026-08-01,Re: Your team's Notion workspace,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0761,ACC-10936,company,Daniel Okafor,Workspace growth check-in,2026-07-03,Re: Your team's Notion workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0762,ACC-10324,company,Sofia Marquez,Workspace growth check-in,2026-08-03,Re: Quick question about your workspace,Not this quarter. The free plan works for us for now.
+RPL-0763,ACC-10349,company,Sofia Marquez,Q3 team-plan outreach,2026-08-15,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0764,ACC-10844,company,Sofia Marquez,Workspace growth check-in,2026-07-26,Re: Quick question about your workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0765,ACC-10559,company,Sofia Marquez,Q3 team-plan outreach,2026-08-12,Re: Notion for your team,We're trialling a few tools for our 13-person team. What makes Notion better for wikis?
+RPL-0766,ACC-10141,company,Daniel Okafor,Q3 team-plan outreach,2026-07-10,Re: Following up on Notion Business,"We might look at this later, just not a priority right now."
+RPL-0767,ACC-10773,personal,Daniel Okafor,Workspace growth check-in,2026-09-25,Re: Following up on Notion Business,Not this quarter. The free plan works for us for now.
+RPL-0768,ACC-10044,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-07-04,Re: Your team's Notion workspace,Do you offer free Plus for students? Our club has about 57 people on it.
+RPL-0769,ACC-10797,company,Sofia Marquez,Workspace growth check-in,2026-08-09,Re: Quick question about your workspace,Can you send pricing for about 55 seats on Business? We'd want annual billing.
+RPL-0770,ACC-10267,university,Sofia Marquez,Pricing page follow-up,2026-07-07,Automatic reply: Out of office,I'm travelling this week and will get back to you as soon as I can.
+RPL-0771,ACC-10381,company,Sofia Marquez,Q3 team-plan outreach,2026-09-01,Re: Notion for your team,Can you send pricing for about 128 seats on Business? We'd want annual billing.
+RPL-0772,ACC-10265,company,Sofia Marquez,Workspace growth check-in,2026-08-30,Re: Your team's Notion workspace,Is there a volume discount above 135 seats? We're comparing your quote to Confluence's.
+RPL-0773,ACC-11045,university,Ethan Brooks,Q3 team-plan outreach,2026-07-09,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0774,ACC-10451,university,Daniel Okafor,Pricing page follow-up,2026-07-01,Re: Notion for your team,Please remove me from this list.
+RPL-0775,ACC-10278,company,Ethan Brooks,Workspace growth check-in,2026-08-27,Re: Following up on Notion Business,I'm not the right person. Our IT lead handles software purchases.
+RPL-0776,ACC-10331,company,Sofia Marquez,Pricing page follow-up,2026-07-14,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0777,ACC-10635,university,Sofia Marquez,Pricing page follow-up,2026-08-22,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0778,ACC-11179,personal,Ethan Brooks,Workspace growth check-in,2026-09-06,Re: Following up on Notion Business,Is there a way to import our Confluence spaces without losing page history?
+RPL-0779,ACC-10846,company,Ethan Brooks,Pricing page follow-up,2026-08-08,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0780,ACC-10975,university,Sofia Marquez,Q3 team-plan outreach,2026-07-27,Re: Your team's Notion workspace,How much is the Education plan per student? I'm asking for our study group.
+RPL-0781,ACC-10776,company,Sofia Marquez,Workspace growth check-in,2026-09-27,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0782,ACC-10722,personal,Sofia Marquez,Q3 team-plan outreach,2026-09-12,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0783,ACC-10472,company,Ethan Brooks,Pricing page follow-up,2026-09-08,Re: Following up on Notion Business,Can you show me how permissions work across teamspaces? Security will ask.
+RPL-0784,ACC-10355,personal,Ethan Brooks,Q3 team-plan outreach,2026-08-04,Re: Following up on Notion Business,"We're consolidating on Microsoft Loop, so no need to follow up."
+RPL-0785,ACC-10780,personal,Sofia Marquez,Workspace growth check-in,2026-09-23,Re: Your team's Notion workspace,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0786,ACC-10809,k12_school,Ethan Brooks,Q3 team-plan outreach,2026-07-05,Re: Notion for your team,"Keep me posted, we could revisit after our planning cycle."
+RPL-0787,ACC-11100,university,Daniel Okafor,Workspace growth check-in,2026-07-12,Re: Your team's Notion workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0788,ACC-10638,company,Sofia Marquez,Q3 team-plan outreach,2026-07-07,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0789,ACC-11046,k12_school,Daniel Okafor,Pricing page follow-up,2026-07-23,Re: Quick question about your workspace,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0790,ACC-11123,company,Daniel Okafor,Q3 team-plan outreach,2026-09-03,Re: Quick question about your workspace,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0791,ACC-10126,company,Sofia Marquez,Workspace growth check-in,2026-08-03,Re: Quick question about your workspace,I just use it for my own notes. You'd want to talk to our ops manager.
+RPL-0792,ACC-10712,university,Daniel Okafor,Pricing page follow-up,2026-07-04,Re: Notion for your team,Is there a student discount? A few of us in my class use Notion and want Plus for cheaper.
+RPL-0793,ACC-11009,personal,Sofia Marquez,Workspace growth check-in,2026-07-14,Re: Following up on Notion Business,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0794,ACC-10642,personal,Ethan Brooks,Workspace growth check-in,2026-07-16,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0795,ACC-11013,k12_school,Ethan Brooks,Pricing page follow-up,2026-09-28,Re: Quick question about your workspace,We're trialling a few tools for our 91-person team. What makes Notion better for wikis?
+RPL-0796,ACC-10499,company,Daniel Okafor,Q3 team-plan outreach,2026-07-30,Re: Following up on Notion Business,"I'm an intern here, so I can't make this call. Try our office manager."
+RPL-0797,ACC-10016,personal,Sofia Marquez,Workspace growth check-in,2026-07-13,Re: Your team's Notion workspace,Unsubscribe.
+RPL-0798,ACC-11076,personal,Ethan Brooks,Pricing page follow-up,2026-07-04,Re: Following up on Notion Business,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0799,ACC-10166,university,Daniel Okafor,Workspace growth check-in,2026-07-22,Re: Quick question about your workspace,"Interesting, but budgets are frozen until next year. Check back in Q1?"
+RPL-0800,ACC-11026,company,Daniel Okafor,Pricing page follow-up,2026-07-15,Out of Office: Re: Notion for your team,Thanks for your message. I'm on leave until the 2nd and will respond then.
+RPL-0801,ACC-10229,company,Ethan Brooks,Q3 team-plan outreach,2026-09-30,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0802,ACC-10492,company,Sofia Marquez,Pricing page follow-up,2026-07-01,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0803,ACC-10343,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-13,Automatic reply: Out of office,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0804,ACC-11162,company,Sofia Marquez,Workspace growth check-in,2026-09-22,Re: Notion for your team,We have 106 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0805,ACC-11028,university,Ethan Brooks,Pricing page follow-up,2026-08-18,Re: Following up on Notion Business,Unsubscribe.
+RPL-0806,ACC-11124,company,Daniel Okafor,Q3 team-plan outreach,2026-09-01,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0807,ACC-11109,company,Ethan Brooks,Q3 team-plan outreach,2026-09-22,Re: Notion for your team,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0808,ACC-11094,company,Daniel Okafor,Q3 team-plan outreach,2026-09-14,Re: Notion for your team,"Love the product, happy on free for the moment."
+RPL-0809,ACC-10904,k12_school,Daniel Okafor,Q3 team-plan outreach,2026-09-14,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0810,ACC-11092,company,Sofia Marquez,Workspace growth check-in,2026-08-11,Re: Your team's Notion workspace,"Not interested, thanks."
+RPL-0811,ACC-11031,company,Daniel Okafor,Workspace growth check-in,2026-08-07,Re: Your team's Notion workspace,"Please send an order form for Business, roughly 140 seats. We'd like to start next month."
+RPL-0812,ACC-10094,personal,Sofia Marquez,Q3 team-plan outreach,2026-09-10,Re: Quick question about your workspace,What's your data residency setup for EU customers?
+RPL-0813,ACC-11034,university,Daniel Okafor,Q3 team-plan outreach,2026-08-03,Re: Following up on Notion Business,"Forwarding to our head of engineering, who owns tooling decisions."
+RPL-0814,ACC-10294,company,Sofia Marquez,Workspace growth check-in,2026-09-15,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0815,ACC-10277,company,Daniel Okafor,Q3 team-plan outreach,2026-08-13,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0816,ACC-10801,company,Sofia Marquez,Q3 team-plan outreach,2026-08-10,Re: Following up on Notion Business,We have 34 people in the workspace already. What's the process to upgrade everyone and get SSO?
+RPL-0817,ACC-10164,company,Ethan Brooks,Q3 team-plan outreach,2026-08-26,Re: Following up on Notion Business,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0818,ACC-11195,company,Sofia Marquez,Pricing page follow-up,2026-07-18,Re: Notion for your team,Not this quarter. The free plan works for us for now.
+RPL-0819,ACC-11114,company,Sofia Marquez,Pricing page follow-up,2026-09-03,Re: Your team's Notion workspace,Can Notion sync with Jira and Slack? That would decide it for us.
+RPL-0820,ACC-10334,university,Daniel Okafor,Q3 team-plan outreach,2026-09-27,Re: Your team's Notion workspace,How much is the Education plan per student? I'm asking for our study group.
+RPL-0821,ACC-10343,personal,Ethan Brooks,Q3 team-plan outreach,2026-07-11,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0822,ACC-10696,personal,Ethan Brooks,Q3 team-plan outreach,2026-09-02,Re: Notion for your team,"We're ready to move the team over. What does Enterprise cost for 52 users, and can you send a contract?"
+RPL-0823,ACC-10352,university,Ethan Brooks,Q3 team-plan outreach,2026-08-11,Re: Quick question about your workspace,"Love the product, happy on free for the moment."
+RPL-0824,ACC-10020,k12_school,Ethan Brooks,Pricing page follow-up,2026-07-31,Re: Following up on Notion Business,"Love the product, happy on free for the moment."
+RPL-0825,ACC-10646,company,Daniel Okafor,Pricing page follow-up,2026-07-25,Re: Your team's Notion workspace,"We might look at this later, just not a priority right now."
+RPL-0826,ACC-10083,company,Sofia Marquez,Q3 team-plan outreach,2026-08-08,Re: Your team's Notion workspace,"Please send an order form for Business, roughly 70 seats. We'd like to start next month."
+RPL-0827,ACC-10163,university,Sofia Marquez,Workspace growth check-in,2026-08-01,Re: Quick question about your workspace,We're trialling a few tools for our 121-person team. What makes Notion better for wikis?
+RPL-0828,ACC-10007,company,Sofia Marquez,Q3 team-plan outreach,2026-09-12,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0829,ACC-10158,company,Ethan Brooks,Pricing page follow-up,2026-09-25,Re: Following up on Notion Business,We're trialling a few tools for our 54-person team. What makes Notion better for wikis?
+RPL-0830,ACC-10107,company,Sofia Marquez,Q3 team-plan outreach,2026-07-11,Re: Following up on Notion Business,We don't plan to pay for a docs tool. Please stop emailing.
+RPL-0831,ACC-10472,company,Sofia Marquez,Pricing page follow-up,2026-08-09,Auto: I'm away until next week,I'm out of the office with limited email access and will reply when I'm back.
+RPL-0832,ACC-11135,k12_school,Ethan Brooks,Pricing page follow-up,2026-07-30,Re: Notion for your team,"Good timing in theory, but we're mid-reorg. Maybe in a few months."
+RPL-0833,ACC-10579,company,Ethan Brooks,Q3 team-plan outreach,2026-09-04,Re: Following up on Notion Business,What's your data residency setup for EU customers?
+RPL-0834,ACC-11015,k12_school,Sofia Marquez,Q3 team-plan outreach,2026-08-09,Re: Your team's Notion workspace,Please remove me from this list.
+RPL-0835,ACC-10699,company,Daniel Okafor,Workspace growth check-in,2026-09-06,Re: Your team's Notion workspace,"Does Business include SAML SSO and audit logs, or is that Enterprise only?"
+RPL-0836,ACC-10022,company,Ethan Brooks,Workspace growth check-in,2026-07-26,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0837,ACC-10028,company,Ethan Brooks,Pricing page follow-up,2026-09-07,Re: Quick question about your workspace,Please remove me from this list.
+RPL-0838,ACC-10733,company,Ethan Brooks,Workspace growth check-in,2026-09-11,Re: Following up on Notion Business,"Wrong person, sorry. Procurement decides on anything with more than 56 users."
+RPL-0839,ACC-10693,university,Daniel Okafor,Q3 team-plan outreach,2026-09-21,Re: Your team's Notion workspace,How does Notion compare to Confluence for engineering docs? We're looking at both.
+RPL-0840,ACC-10511,personal,Sofia Marquez,Pricing page follow-up,2026-07-27,Re: Following up on Notion Business,"Please send an order form for Business, roughly 56 seats. We'd like to start next month."
